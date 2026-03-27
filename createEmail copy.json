@@ -1,0 +1,2652 @@
+{
+  "file": ".",
+  "absoluteFilePath": ".",
+  "line": 1,
+  "includedIn": [],
+  "tagName": "mjml",
+  "children": [
+  {
+    "tagName": "mj-block",
+    "attributes": {
+      "moduleName": "CM-001986",
+      "outline": "2px dashed #00c0f3",
+      "title": "CB Auto - CM-001986",
+      "width": "600px"
+    },
+    "moduleName": "CM-001986",
+    "children": [
+      {
+        "iconHtml": "<div class=\"icon-column col\"></div>",
+        "name": "",
+        "mobilePadding": {},
+        "mobileFontSize": {},
+        "id": "mj1",
+        "isLocked": false,
+        "tagName": "mj-section",
+        "attributes": {
+          "css-class": "section_claims",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "padding-right": "0px",
+          "padding-top": "0px"
+        },
+        "children": [
+          {
+            "tagName": "mj-column",
+            "attributes": {
+              "width": "100%",
+              "padding-bottom": "0px",
+              "padding-left": "0px",
+              "padding-right": "0px",
+              "padding-top": "0px",
+              "border": "none",
+              "border-radius": "none"
+            },
+            "children": [
+              {
+                "tagName": "mj-text",
+                "content": "<div>La mala <span style='color:#CF0A2C;'>calidad del sueño</span> en <span style='color:#CF0A2C;'>PVIH</span> se asocia a <span style='color:#CF0A2C;'>comorbilidades neuropsiquiátricas</span> (<span style='color:#CF0A2C;'>CNP</span>), disminución de la <span style='color:#CF0A2C;'>calidad de vida</span> (<span style='color:#CF0A2C;'>CV</span>) y mayor riesgo de interrupción del <span style='color:#CF0A2C;'>tratamiento</span> (<span style='color:#CF0A2C;'>TAR</span>)<sup data-ref='true' id='CL-006073'>1</sup></div>",
+                "elementName": "CL-006073",
+                "referenceVal": "1",
+                "moduleReferences": [
+                  {
+                    "mustUse": true,
+                    "id": "840f0d75-686b-4527-9233-315e53ac9d41",
+                    "moduleId": "CM-001986",
+                    "value": "&quot;Vélez-Díaz-Pallarés M, et al. Trastornos en la calidad del sueño asociados a los inhibidores de la integrasa en el tratamiento del VIH. Rev Esp Salud Pública. 2003; 97:e1-e5.\ne202306052.&quot;",
+                    "type": "Claim",
+                    "data_type": "Reference",
+                    "elementId": "CL-006073",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001986",
+                    "componentType": null,
+                    "sl_no": 1,
+                    "refValueExistId": [
+                      "CL-006073"
+                    ]
+                  }
+                ],
+                "moduleFootnotes": [],
+                "moduleGlossary": [],
+                "claimSymbol": "",
+                "mustUse": true,
+                "attributes": {
+                  "symbol": "",
+                  "referenceVal": "1",
+                  "moduleReferences": "[{'mustUse':true,'id':'840f0d75-686b-4527-9233-315e53ac9d41','moduleId':'CM-001986','value':'&quot;Vélez-Díaz-Pallarés M, et al. Trastornos en la calidad del sueño asociados a los inhibidores de la integrasa en el tratamiento del VIH. Rev Esp Salud Pública. 2003; 97:e1-e5.\\ne202306052.&quot;','type':'Claim','data_type':'Reference','elementId':'CL-006073','moduleType':'Parent','belongsTo':'CM-001986','componentType':null,'sl_no':1,'refValueExistId':['CL-006073']}]",
+                  "moduleFootnotes": "[]",
+                  "moduleGlossary": "[]",
+                  "claimSymbol": "",
+                  "mustUse": true,
+                  "claimText": "La mala calidad del sueño en PVIH se asocia a comorbilidades neuropsiquiátricas (CNP), disminución de la calidad de vida (CV) y mayor riesgo de interrupción del tratamiento (TAR)",
+                  "moduleName": "CM-001986",
+                  "el_data_type": "Match Text",
+                  "el_id": "4ac9c4c8-cb12-43bf-9cbc-fe8bce1e1c93",
+                  "approved": true,
+                  "elementName": "CL-006073",
+                  "el_type": "Claim",
+                  "font-size": "14px",
+                  "line-height": "17px",
+                  "padding-bottom": "20px",
+                  "padding-left": "25px",
+                  "padding-right": "25px",
+                  "padding-top": "5px",
+                  "color": "#c00000",
+                  "content": "<div>La mala calidad del sueño en PVIH se asocia a comorbilidades neuropsiquiátricas (CNP), disminución de la calidad de vida (CV) y mayor riesgo de interrupción del tratamiento (TAR)<sup data-ref='true' id='CL-006073'>1</sup></div>",
+                  "footnoteSymbols": "",
+                  "relatedTo": "",
+                  "isEdited": false,
+                  "align": "center",
+                  "font-weight": "700",
+                  "parentSymbolArray": "null"
+                },
+                "el_id": "4ac9c4c8-cb12-43bf-9cbc-fe8bce1e1c93",
+                "relatedTo": "",
+                "symbol": "",
+                "claimText": "La mala calidad del sueño en PVIH se asocia a comorbilidades neuropsiquiátricas (CNP), disminución de la calidad de vida (CV) y mayor riesgo de interrupción del tratamiento (TAR)",
+                "el_data_type": "Match Text",
+                "el_type": "Claim",
+                "moduleName": "CM-001986",
+                "border_box": "",
+                "randomKey": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "iconHtml": "<div class=\"icon-column col\"></div>",
+        "name": "",
+        "mobilePadding": {},
+        "mobileFontSize": {},
+        "id": "lxh",
+        "isLocked": false,
+        "tagName": "mj-section",
+        "attributes": {
+          "css-class": "section_claims",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "padding-right": "0px",
+          "padding-top": "0px"
+        },
+        "children": [
+          {
+            "tagName": "mj-column",
+            "attributes": {
+              "width": "100%",
+              "padding-bottom": "0px",
+              "padding-left": "0px",
+              "padding-right": "0px",
+              "padding-top": "0px",
+              "border": "none",
+              "border-radius": "none"
+            },
+            "children": [
+              {
+                "tagName": "mj-text",
+                "content": "<div>Las <span style='color:#CF0A2C;'>comorbilidades neuropsiquiátricas</span> (CNP), como <span style='color:#CF0A2C;'>ansiedad</span> (ANX), <span style='color:#CF0A2C;'>depresión</span> (DEP) e <span style='color:#CF0A2C;'>insomnio</span> (INS), son significativamente más frecuentes en <span style='color:#CF0A2C;'>PVIH</span> que en la población general, impactando la salud mental y física.<sup data-ref='true' id='CL-006074'>1</sup></div>",
+                "elementName": "CL-006074",
+                "referenceVal": "1",
+                "moduleReferences": [
+                  {
+                    "mustUse": false,
+                    "id": "fb0471f7-19de-4a81-914e-d4b8a13edac0",
+                    "moduleId": "CM-001986",
+                    "value": "&quot;Vélez-Díaz-Pallarés M, et al. Trastornos en la calidad del sueño asociados a los inhibidores de la integrasa en el tratamiento del VIH. Rev Esp Salud Pública. 2003; 97:e1-e5.\ne202306052.&quot;",
+                    "type": "Claim",
+                    "data_type": "Reference",
+                    "elementId": "CL-006074",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001986",
+                    "componentType": null
+                  }
+                ],
+                "moduleFootnotes": [],
+                "moduleGlossary": [
+                  {
+                    "mustUse": false,
+                    "id": "V1X000000077017-Tratamiento antirretroviral \nVirus de inmunodeficiencia humana0",
+                    "moduleId": "CM-001986",
+                    "value": "Tratamiento antirretroviral \nVirus de inmunodeficiencia humana",
+                    "type": "Claim",
+                    "data_type": "Glossary",
+                    "elementId": "CL-006074",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001986",
+                    "componentType": null,
+                    "sl_no": 1
+                  }
+                ],
+                "claimSymbol": "",
+                "mustUse": false,
+                "attributes": {
+                  "symbol": "",
+                  "referenceVal": "1",
+                  "moduleReferences": "[{'mustUse':false,'id':'fb0471f7-19de-4a81-914e-d4b8a13edac0','moduleId':'CM-001986','value':'&quot;Vélez-Díaz-Pallarés M, et al. Trastornos en la calidad del sueño asociados a los inhibidores de la integrasa en el tratamiento del VIH. Rev Esp Salud Pública. 2003; 97:e1-e5.\\ne202306052.&quot;','type':'Claim','data_type':'Reference','elementId':'CL-006074','moduleType':'Parent','belongsTo':'CM-001986','componentType':null}]",
+                  "moduleFootnotes": "[]",
+                  "moduleGlossary": "[{'mustUse':false,'id':'V1X000000077017-Tratamiento antirretroviral \\nVirus de inmunodeficiencia humana0','moduleId':'CM-001986','value':'Tratamiento antirretroviral \\nVirus de inmunodeficiencia humana','type':'Claim','data_type':'Glossary','elementId':'CL-006074','moduleType':'Parent','belongsTo':'CM-001986','componentType':null,'sl_no':1}]",
+                  "claimSymbol": "",
+                  "mustUse": false,
+                  "claimText": "Las comorbilidades neuropsiquiátricas (CNP), como ansiedad (ANX), depresión (DEP) e insomnio (INS), son significativamente más frecuentes en PVIH que en la población general, impactando la salud mental y física.",
+                  "moduleName": "CM-001986",
+                  "el_data_type": "Match Text",
+                  "el_id": "bd3ecede-f40e-4b64-a5f6-f5bf80b94e04",
+                  "approved": true,
+                  "elementName": "CL-006074",
+                  "el_type": "Claim",
+                  "font-size": "12px",
+                  "line-height": "14px",
+                  "padding-bottom": "5px",
+                  "padding-left": "25px",
+                  "padding-right": "25px",
+                  "padding-top": "5px",
+                  "color": "#000000",
+                  "content": "<div>Las comorbilidades neuropsiquiátricas (CNP), como ansiedad (ANX), depresión (DEP) e insomnio (INS), son significativamente más frecuentes en PVIH que en la población general, impactando la salud mental y física.<sup data-ref='true' id='CL-006074'>1</sup></div>",
+                  "footnoteSymbols": "",
+                  "relatedTo": "",
+                  "isEdited": false,
+                  "align": "left",
+                  "font-weight": "400",
+                  "parentSymbolArray": "null"
+                },
+                "el_id": "bd3ecede-f40e-4b64-a5f6-f5bf80b94e04",
+                "relatedTo": "",
+                "symbol": "",
+                "claimText": "Las comorbilidades neuropsiquiátricas (CNP), como ansiedad (ANX), depresión (DEP) e insomnio (INS), son significativamente más frecuentes en PVIH que en la población general, impactando la salud mental y física.",
+                "el_data_type": "Match Text",
+                "el_type": "Claim",
+                "moduleName": "CM-001986",
+                "border_box": "",
+                "randomKey": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "iconHtml": "<div class=\"icon-column col\"></div>",
+        "name": "",
+        "mobilePadding": {},
+        "mobileFontSize": {},
+        "id": "h2k",
+        "isLocked": false,
+        "tagName": "mj-section",
+        "attributes": {
+          "css-class": "section_claims",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "padding-right": "0px",
+          "padding-top": "0px"
+        },
+        "children": [
+          {
+            "tagName": "mj-column",
+            "attributes": {
+              "width": "100%",
+              "padding-bottom": "0px",
+              "padding-left": "0px",
+              "padding-right": "0px",
+              "padding-top": "0px",
+              "border": "none",
+              "border-radius": "none"
+            },
+            "children": [
+              {
+                "tagName": "mj-text",
+                "content": "<div>Seis de cada <span style='color:#CF0A2C;'>diez</span> <span style='color:#CF0A2C;'>personas</span> que viven con <span style='color:#CF0A2C;'>VIH</span> experimentan una <span style='color:#CF0A2C;'>calidad de sueño</span> deficiente, lo que impacta negativamente en su <span style='color:#CF0A2C;'>bienestar general</span> y en la <span style='color:#CF0A2C;'>adherencia al tratamiento antirretroviral</span><sup data-ref='true' id='CL-006105'>*,2</sup></div>",
+                "elementName": "CL-006105",
+                "referenceVal": ",2",
+                "moduleReferences": [
+                  {
+                    "mustUse": false,
+                    "id": "0717ed45-f640-45b5-8ee8-a4367eecf44b",
+                    "moduleId": "CM-001986",
+                    "value": "Galindo Puerto MJ, et al. Perspectives of people with HIV and HIV clinicians on characteristics of antiretroviral treatment and HIV-related symptoms. HIV Med. 2024 May;25(5):565-576. doi: 10.1111/hiv.13609.",
+                    "type": "Claim",
+                    "data_type": "Reference",
+                    "elementId": "CL-006105",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001986",
+                    "componentType": null,
+                    "sl_no": 2,
+                    "refValueExistId": [
+                      "CL-006105"
+                    ]
+                  }
+                ],
+                "moduleFootnotes": [
+                  {
+                    "mustUse": false,
+                    "id": "86c51a43-246c-4379-9627-3093c7a2fa4e-Un 57,6% de las PVIH experimentan dificultades para dormir. Encuestas transversales llevadas a cabo en 502 PVIH y 101 clínicos especialistas en VIH en 18 centros de España.",
+                    "moduleId": "CM-001986",
+                    "value": "Un 57,6% de las PVIH experimentan dificultades para dormir. Encuestas transversales llevadas a cabo en 502 PVIH y 101 clínicos especialistas en VIH en 18 centros de España.",
+                    "type": "Claim",
+                    "data_type": "Footnote",
+                    "elementId": "86c51a43-246c-4379-9627-3093c7a2fa4e",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001986",
+                    "componentType": null,
+                    "symbol": "*",
+                    "sl_no": 1
+                  }
+                ],
+                "moduleGlossary": [],
+                "claimSymbol": "",
+                "mustUse": false,
+                "attributes": {
+                  "symbol": "*",
+                  "referenceVal": "2",
+                  "moduleReferences": "[{'mustUse':false,'id':'0717ed45-f640-45b5-8ee8-a4367eecf44b','moduleId':'CM-001986','value':'Galindo Puerto MJ, et al. Perspectives of people with HIV and HIV clinicians on characteristics of antiretroviral treatment and HIV-related symptoms. HIV Med. 2024 May;25(5):565-576. doi: 10.1111/hiv.13609.','type':'Claim','data_type':'Reference','elementId':'CL-006105','moduleType':'Parent','belongsTo':'CM-001986','componentType':null,'sl_no':2,'refValueExistId':['CL-006105']}]",
+                  "moduleFootnotes": "[{'mustUse':false,'id':'86c51a43-246c-4379-9627-3093c7a2fa4e-Un 57,6% de las PVIH experimentan dificultades para dormir. Encuestas transversales llevadas a cabo en 502 PVIH y 101 clínicos especialistas en VIH en 18 centros de España.','moduleId':'CM-001986','value':'Un 57,6% de las PVIH experimentan dificultades para dormir. Encuestas transversales llevadas a cabo en 502 PVIH y 101 clínicos especialistas en VIH en 18 centros de España.','type':'Claim','data_type':'Footnote','elementId':'86c51a43-246c-4379-9627-3093c7a2fa4e','moduleType':'Parent','belongsTo':'CM-001986','componentType':null,'symbol':'*','sl_no':1}]",
+                  "moduleGlossary": "[]",
+                  "claimSymbol": "",
+                  "mustUse": false,
+                  "claimText": "Seis de cada diez personas que viven con VIH experimentan una calidad de sueño deficiente, lo que impacta negativamente en su bienestar general y en la adherencia al tratamiento antirretroviral",
+                  "moduleName": "CM-001986",
+                  "el_data_type": "Match Text",
+                  "el_id": "86c51a43-246c-4379-9627-3093c7a2fa4e",
+                  "approved": true,
+                  "elementName": "CL-006105",
+                  "el_type": "Claim",
+                  "font-size": "12px",
+                  "line-height": "14px",
+                  "padding-bottom": "5px",
+                  "padding-left": "25px",
+                  "padding-right": "25px",
+                  "padding-top": "5px",
+                  "color": "#000000",
+                  "content": "<div>Seis de cada diez personas que viven con VIH experimentan una calidad de sueño deficiente, lo que impacta negativamente en su bienestar general y en la adherencia al tratamiento antirretroviral<sup data-ref='true' id='CL-006105'>*,2</sup></div>",
+                  "footnoteSymbols": "*",
+                  "relatedTo": "",
+                  "isEdited": false,
+                  "align": "left",
+                  "font-weight": "400",
+                  "parentSymbolArray": "null"
+                },
+                "el_id": "86c51a43-246c-4379-9627-3093c7a2fa4e",
+                "relatedTo": "",
+                "symbol": "",
+                "claimText": "Seis de cada diez personas que viven con VIH experimentan una calidad de sueño deficiente, lo que impacta negativamente en su bienestar general y en la adherencia al tratamiento antirretroviral",
+                "el_data_type": "Match Text",
+                "el_type": "Claim",
+                "moduleName": "CM-001986",
+                "border_box": "",
+                "randomKey": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "iconHtml": "<div class=\"icon-column col\"></div>",
+        "name": "",
+        "mobilePadding": {},
+        "mobileFontSize": {},
+        "id": "bbq",
+        "isLocked": false,
+        "tagName": "mj-section",
+        "attributes": {
+          "css-class": "section_claims",
+          "padding-bottom": "0px",
+          "padding-left": "25px",
+          "padding-right": "25px",
+          "padding-top": "0px"
+        },
+        "children": [
+          {
+            "tagName": "mj-column",
+            "attributes": {
+              "width": "100%",
+              "padding-bottom": "0px",
+              "padding-left": "10px",
+              "padding-right": "10px",
+              "padding-top": "0px",
+              "border": "3px solid #6ECBB8",
+              "border-radius": "10px"
+            },
+            "children": [
+              {
+                "tagName": "mj-text",
+                "content": "<div>El <span style='color:#CF0A2C;'>riesgo</span> de insomnio (<span style='color:#CF0A2C;'>INS</span>) en <span style='color:#CF0A2C;'>PVIH</span> es casi <span style='color:#CF0A2C;'>dos</span> <span style='color:#CF0A2C;'>veces mayor</span> que en individuos sin <span style='color:#CF0A2C;'>VIH</span>, lo que subraya la <span style='color:#CF0A2C;'>necesidad</span> de <span style='color:#CF0A2C;'>intervenciones</span> específicas para mejorar el descanso <span style='color:#CF0A2C;'>nocturno</span>.<sup data-ref='true' id='CL-006106'>†,3</sup></div>",
+                "elementName": "CL-006106",
+                "referenceVal": ",3",
+                "moduleReferences": [
+                  {
+                    "mustUse": false,
+                    "id": "01e0151a-1119-4515-9b24-312f5d3f359c",
+                    "moduleId": "CM-001986",
+                    "value": "GeSIDA. Documento de consenso sobre el manejo clínico de la comorbilidad neuropsiquiátrica y cognitiva asociada a la infección por VIH-1. Disponible en: https://gesida-seimc.org/wp-content/uploads/2021/02/Guia_GESIDA_ManejoClinicoComorbilidad.pdf. Acceso: diciembre 2024.; García-Corpas J.P, et al. Prevalencia y factores asociados al insomnio y mala calidad de sueño en pacientes con VIH/SIDA en Sevilla, España. VITAE. 2013;20(3):195-202. Disponible en: https://doi.org/10.17533/udea.vitae.14416. Acceso: diciembre 2024.; Lee S, et al. The prevalence and moderating factors of sleep disturbances in people living with HIV: a systematic review and meta-analysis. Sci Rep. 2024;14:14817 https://doi.org/10.1038/s41598-024-65713-x",
+                    "type": "Claim",
+                    "data_type": "Reference",
+                    "elementId": "CL-006106",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001986",
+                    "componentType": null,
+                    "sl_no": 3,
+                    "refValueExistId": [
+                      "CL-006106"
+                    ]
+                  }
+                ],
+                "moduleFootnotes": [
+                  {
+                    "mustUse": false,
+                    "id": "725d8344-710e-46d8-ae9d-5b609732554d-vs. la población general, aproximadamente. Datos generales de adultos.",
+                    "moduleId": "CM-001986",
+                    "value": "vs. la población general, aproximadamente. Datos generales de adultos.",
+                    "type": "Claim",
+                    "data_type": "Footnote",
+                    "elementId": "725d8344-710e-46d8-ae9d-5b609732554d",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001986",
+                    "componentType": null,
+                    "symbol": "†",
+                    "sl_no": 2
+                  }
+                ],
+                "moduleGlossary": [],
+                "claimSymbol": "",
+                "mustUse": false,
+                "attributes": {
+                  "symbol": "†",
+                  "referenceVal": "3",
+                  "moduleReferences": "[{'mustUse':false,'id':'01e0151a-1119-4515-9b24-312f5d3f359c','moduleId':'CM-001986','value':'GeSIDA. Documento de consenso sobre el manejo clínico de la comorbilidad neuropsiquiátrica y cognitiva asociada a la infección por VIH-1. Disponible en: https://gesida-seimc.org/wp-content/uploads/2021/02/Guia_GESIDA_ManejoClinicoComorbilidad.pdf. Acceso: diciembre 2024.; García-Corpas J.P, et al. Prevalencia y factores asociados al insomnio y mala calidad de sueño en pacientes con VIH/SIDA en Sevilla, España. VITAE. 2013;20(3):195-202. Disponible en: https://doi.org/10.17533/udea.vitae.14416. Acceso: diciembre 2024.; Lee S, et al. The prevalence and moderating factors of sleep disturbances in people living with HIV: a systematic review and meta-analysis. Sci Rep. 2024;14:14817 https://doi.org/10.1038/s41598-024-65713-x','type':'Claim','data_type':'Reference','elementId':'CL-006106','moduleType':'Parent','belongsTo':'CM-001986','componentType':null,'sl_no':3,'refValueExistId':['CL-006106']}]",
+                  "moduleFootnotes": "[{'mustUse':false,'id':'725d8344-710e-46d8-ae9d-5b609732554d-vs. la población general, aproximadamente. Datos generales de adultos.','moduleId':'CM-001986','value':'vs. la población general, aproximadamente. Datos generales de adultos.','type':'Claim','data_type':'Footnote','elementId':'725d8344-710e-46d8-ae9d-5b609732554d','moduleType':'Parent','belongsTo':'CM-001986','componentType':null,'symbol':'†','sl_no':2}]",
+                  "moduleGlossary": "[]",
+                  "claimSymbol": "",
+                  "mustUse": false,
+                  "claimText": "El riesgo de insomnio (INS) en PVIH es casi dos veces mayor que en individuos sin VIH, lo que subraya la necesidad de intervenciones específicas para mejorar el descanso nocturno.",
+                  "moduleName": "CM-001986",
+                  "el_data_type": "Match Text",
+                  "el_id": "725d8344-710e-46d8-ae9d-5b609732554d",
+                  "approved": true,
+                  "elementName": "CL-006106",
+                  "el_type": "Claim",
+                  "font-size": "12px",
+                  "line-height": "14px",
+                  "padding-bottom": "5px",
+                  "padding-left": "0px",
+                  "padding-right": "0px",
+                  "padding-top": "5px",
+                  "color": "#000000",
+                  "content": "<div>El riesgo de insomnio (INS) en PVIH es casi dos veces mayor que en individuos sin VIH, lo que subraya la necesidad de intervenciones específicas para mejorar el descanso nocturno.<sup data-ref='true' id='CL-006106'>†,3</sup></div>",
+                  "footnoteSymbols": "†",
+                  "relatedTo": "",
+                  "isEdited": false,
+                  "align": "left",
+                  "font-weight": "400",
+                  "parentSymbolArray": "null"
+                },
+                "el_id": "725d8344-710e-46d8-ae9d-5b609732554d",
+                "relatedTo": "",
+                "symbol": "",
+                "claimText": "El riesgo de insomnio (INS) en PVIH es casi dos veces mayor que en individuos sin VIH, lo que subraya la necesidad de intervenciones específicas para mejorar el descanso nocturno.",
+                "el_data_type": "Match Text",
+                "el_type": "Claim",
+                "moduleName": "CM-001986",
+                "border_box": "add_border_box",
+                "randomKey": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "iconHtml": "<div class=\"icon-column col\"></div>",
+        "name": "",
+        "mobilePadding": {},
+        "mobileFontSize": {},
+        "id": "vmm",
+        "isLocked": false,
+        "tagName": "mj-section",
+        "attributes": {
+          "css-class": "section_reusable_texts",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "padding-right": "0px",
+          "padding-top": "0px"
+        },
+        "children": [
+          {
+            "tagName": "mj-column",
+            "attributes": {
+              "width": "100%"
+            },
+            "children": [
+              {
+                "tagName": "mj-text",
+                "content": "<div>Cambios en la <span style='color:#CF0A2C;'>calidad del sueño</span> problemas de concentración, <span style='color:#CF0A2C;'>depression</span> alteraciones del estado de ánimo menor <span style='color:#CF0A2C;'>adherencia</span> al <span style='color:#CF0A2C;'>tratamiento</span></div>",
+                "elementName": "RT-002158",
+                "el_data_type": "Match Text",
+                "el_type": "Reusable Text",
+                "el_id": "65d755af-fd08-4a28-8b2e-210285e7e6c2",
+                "referenceVal": "",
+                "moduleReferences": [],
+                "moduleFootnotes": [],
+                "moduleGlossary": [],
+                "claimSymbol": "",
+                "mustUse": true,
+                "attributes": {
+                  "symbol": "",
+                  "referenceVal": "",
+                  "moduleReferences": "[]",
+                  "moduleFootnotes": "[]",
+                  "moduleGlossary": "[]",
+                  "claimSymbol": "",
+                  "mustUse": true,
+                  "claimText": "Cambios en la calidad del sueño problemas de concentración, depression alteraciones del estado de ánimo menor adherencia al tratamiento",
+                  "moduleName": "CM-001986",
+                  "el_data_type": "Match Text",
+                  "el_id": "65d755af-fd08-4a28-8b2e-210285e7e6c2",
+                  "approved": true,
+                  "el_type": "Reusable Text",
+                  "elementName": "RT-002158",
+                  "font-size": "12px",
+                  "line-height": "15px",
+                  "padding-bottom": "5px",
+                  "padding-left": "25px",
+                  "padding-right": "25px",
+                  "padding-top": "5px",
+                  "parentSymbolArray": "null",
+                  "relatedTo": "",
+                  "isEdited": false,
+                  "color": "#000000",
+                  "align": "left"
+                },
+                "moduleName": "CM-001986"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "iconHtml": "<div class=\"icon-column col\"></div>",
+        "name": "",
+        "mobilePadding": {},
+        "mobileFontSize": {},
+        "id": "b9h",
+        "isLocked": false,
+        "tagName": "mj-section",
+        "attributes": {
+          "css-class": "section_image_with_title",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "padding-right": "0px",
+          "padding-top": "0px"
+        },
+        "children": [
+          {
+            "tagName": "mj-column",
+            "attributes": {
+              "width": "70%",
+              "vertical-align": "middle"
+            },
+            "children": [
+              {
+                "icon": "text_fields",
+                "name": "builder.text",
+                "tagName": "mj-text",
+                "content": "<div>Ilustración que refleja <span style='color:#CF0A2C;'>agotamiento</span> y <span style='color:#CF0A2C;'>tensión</span>, asociada a trastornos del sueño o <span style='color:#CF0A2C;'>estrés</span>. Invita a concienciar sobre la importancia del descanso y la salud <span style='color:#CF0A2C;'>mental</span> en la vida diaria.</div>",
+                "elementName": "COMP-2781_title",
+                "el_data_type": "Image Title",
+                "el_type": "Text",
+                "moduleName": "CM-001986",
+                "attributes": {
+                  "content": "<div>Ilustración que refleja agotamiento y tensión, asociada a trastornos del sueño o estrés. Invita a concienciar sobre la importancia del descanso y la salud mental en la vida diaria.</div>",
+                  "el_data_type": "Image Title",
+                  "el_type": "Text",
+                  "elementName": "COMP-2781_title",
+                  "moduleName": "CM-001986",
+                  "css-class": "image-title-text",
+                  "font-size": "12px",
+                  "line-height": "14px",
+                  "padding-bottom": "10px",
+                  "padding-left": "25px",
+                  "padding-right": "0px",
+                  "padding-top": "10px",
+                  "align": "left"
+                }
+              }
+            ]
+          },
+          {
+            "tagName": "mj-column",
+            "attributes": {
+              "width": "30%",
+              "vertical-align": "middle"
+            },
+            "children": [
+              {
+                "icon": "photo",
+                "name": "builder.image",
+                "tagName": "mj-image",
+                "elementName": "COMP-2781",
+                "mustUse": false,
+                "attributes": {
+                  "src": "https://d1t0wo1ho6nrgc.cloudfront.net/components/895609ee-30bb-45fc-85f9-33ab1d0d3579/572beaae-1a33-49c6-96c4-4383323ab951/31519_1_0.png",
+                  "fluid-on-mobile": "true",
+                  "el_id": "572beaae-1a33-49c6-96c4-4383323ab951",
+                  "el_data_type": "Image",
+                  "el_type": "Component",
+                  "elementName": "COMP-2781",
+                  "moduleName": "CM-001986",
+                  "approved": true,
+                  "css-class": "approved-image",
+                  "width": "150px",
+                  "align": "center",
+                  "padding-left": "0px",
+                  "padding-right": "20px",
+                  "padding-top": "5px",
+                  "padding-bottom": "5px",
+                  "mustUse": false
+                },
+                "el_id": "572beaae-1a33-49c6-96c4-4383323ab951",
+                "el_data_type": "Image",
+                "el_type": "Component",
+                "moduleName": "CM-001986"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "iconHtml": "<div class=\"icon-column col\"></div>",
+        "name": "",
+        "mobilePadding": {},
+        "mobileFontSize": {},
+        "id": "ct9",
+        "isLocked": false,
+        "tagName": "mj-section",
+        "attributes": {
+          "css-class": "section_image_with_title",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "padding-right": "0px",
+          "padding-top": "0px"
+        },
+        "children": [
+          {
+            "tagName": "mj-column",
+            "attributes": {
+              "width": "70%",
+              "vertical-align": "middle"
+            },
+            "children": [
+              {
+                "icon": "text_fields",
+                "name": "builder.text",
+                "tagName": "mj-text",
+                "content": "<div>Representación minimalista de cansancio y preocupación, símbolo de insomnio y fatiga emocional. Destaca la necesidad de hábitos saludables y apoyo <span style='color:#CF0A2C;'>profesional</span> para mejorar el bienestar <span style='color:#CF0A2C;'>psicológico</span></div>",
+                "elementName": "COMP-2782_title",
+                "el_data_type": "Image Title",
+                "el_type": "Text",
+                "moduleName": "CM-001986",
+                "attributes": {
+                  "content": "<div>Representación minimalista de cansancio y preocupación, símbolo de insomnio y fatiga emocional. Destaca la necesidad de hábitos saludables y apoyo profesional para mejorar el bienestar psicológico</div>",
+                  "el_data_type": "Image Title",
+                  "el_type": "Text",
+                  "elementName": "COMP-2782_title",
+                  "moduleName": "CM-001986",
+                  "css-class": "image-title-text",
+                  "font-size": "12px",
+                  "line-height": "14px",
+                  "padding-bottom": "10px",
+                  "padding-left": "25px",
+                  "padding-right": "0px",
+                  "padding-top": "10px",
+                  "align": "left"
+                }
+              }
+            ]
+          },
+          {
+            "tagName": "mj-column",
+            "attributes": {
+              "width": "30%",
+              "vertical-align": "middle"
+            },
+            "children": [
+              {
+                "icon": "photo",
+                "name": "builder.image",
+                "tagName": "mj-image",
+                "elementName": "COMP-2782",
+                "mustUse": false,
+                "attributes": {
+                  "src": "https://d1t0wo1ho6nrgc.cloudfront.net/components/895609ee-30bb-45fc-85f9-33ab1d0d3579/114aa56a-3c47-4523-87ae-c5f7bf4f1c70/31424_1_0.png",
+                  "fluid-on-mobile": "true",
+                  "el_id": "114aa56a-3c47-4523-87ae-c5f7bf4f1c70",
+                  "el_data_type": "Image",
+                  "el_type": "Component",
+                  "elementName": "COMP-2782",
+                  "moduleName": "CM-001986",
+                  "approved": true,
+                  "css-class": "approved-image",
+                  "width": "150px",
+                  "align": "center",
+                  "padding-left": "0px",
+                  "padding-right": "20px",
+                  "padding-top": "5px",
+                  "padding-bottom": "5px",
+                  "mustUse": false
+                },
+                "el_id": "114aa56a-3c47-4523-87ae-c5f7bf4f1c70",
+                "el_data_type": "Image",
+                "el_type": "Component",
+                "moduleName": "CM-001986"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "iconHtml": "<div class=\"icon-column col\"></div>",
+        "name": "",
+        "mobilePadding": {},
+        "mobileFontSize": {},
+        "id": "u0u",
+        "isLocked": false,
+        "tagName": "mj-section",
+        "attributes": {
+          "css-class": "section_image_with_title",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "padding-right": "0px",
+          "padding-top": "0px"
+        },
+        "children": [
+          {
+            "tagName": "mj-column",
+            "attributes": {
+              "width": "70%",
+              "vertical-align": "middle"
+            },
+            "children": [
+              {
+                "icon": "text_fields",
+                "name": "builder.text",
+                "tagName": "mj-text",
+                "content": "<div>Figura que transmite sobrecarga mental y agotamiento físico, asociada a <span style='color:#CF0A2C;'>ansiedad</span> o <span style='color:#CF0A2C;'>depresión</span>. Subraya la relevancia de <span style='color:#CF0A2C;'>buscar ayuda</span> y <span style='color:#CF0A2C;'>cuidar la salud emocional</span> en entornos exigentes.</div>",
+                "elementName": "COMP-2783_title",
+                "el_data_type": "Image Title",
+                "el_type": "Text",
+                "moduleName": "CM-001986",
+                "attributes": {
+                  "content": "<div>Figura que transmite sobrecarga mental y agotamiento físico, asociada a ansiedad o depresión. Subraya la relevancia de buscar ayuda y cuidar la salud emocional en entornos exigentes.</div>",
+                  "el_data_type": "Image Title",
+                  "el_type": "Text",
+                  "elementName": "COMP-2783_title",
+                  "moduleName": "CM-001986",
+                  "css-class": "image-title-text",
+                  "font-size": "12px",
+                  "line-height": "14px",
+                  "padding-bottom": "10px",
+                  "padding-left": "25px",
+                  "padding-right": "0px",
+                  "padding-top": "10px",
+                  "align": "left"
+                }
+              }
+            ]
+          },
+          {
+            "tagName": "mj-column",
+            "attributes": {
+              "width": "30%",
+              "vertical-align": "middle"
+            },
+            "children": [
+              {
+                "icon": "photo",
+                "name": "builder.image",
+                "tagName": "mj-image",
+                "elementName": "COMP-2783",
+                "mustUse": false,
+                "attributes": {
+                  "src": "https://d1t0wo1ho6nrgc.cloudfront.net/components/895609ee-30bb-45fc-85f9-33ab1d0d3579/c339dafa-ec74-45ae-b71f-4e62093dba90/31425_1_0.png",
+                  "fluid-on-mobile": "true",
+                  "el_id": "c339dafa-ec74-45ae-b71f-4e62093dba90",
+                  "el_data_type": "Image",
+                  "el_type": "Component",
+                  "elementName": "COMP-2783",
+                  "moduleName": "CM-001986",
+                  "approved": true,
+                  "css-class": "approved-image",
+                  "width": "150px",
+                  "align": "center",
+                  "padding-left": "0px",
+                  "padding-right": "20px",
+                  "padding-top": "5px",
+                  "padding-bottom": "5px",
+                  "mustUse": false
+                },
+                "el_id": "c339dafa-ec74-45ae-b71f-4e62093dba90",
+                "el_data_type": "Image",
+                "el_type": "Component",
+                "moduleName": "CM-001986"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "iconHtml": "<div class=\"icon-column col\"></div>",
+        "name": "",
+        "mobilePadding": {},
+        "mobileFontSize": {},
+        "id": "tmh",
+        "isLocked": false,
+        "tagName": "mj-section",
+        "attributes": {
+          "css-class": "section_image_with_title",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "padding-right": "0px",
+          "padding-top": "0px"
+        },
+        "children": [
+          {
+            "tagName": "mj-column",
+            "attributes": {
+              "width": "70%",
+              "vertical-align": "middle"
+            },
+            "children": [
+              {
+                "icon": "text_fields",
+                "name": "builder.text",
+                "tagName": "mj-text",
+                "content": "<div>Dibujo que sugiere desesperanza y tensión acumulada, reflejando el impacto del estrés crónico. Promueve la importancia de la prevención y el <span style='color:#CF0A2C;'>acompañamiento psicológico</span> para recuperar <span style='color:#CF0A2C;'>equilibrio</span>.</div>",
+                "elementName": "COMP-2784_title",
+                "el_data_type": "Image Title",
+                "el_type": "Text",
+                "moduleName": "CM-001986",
+                "attributes": {
+                  "content": "<div>Dibujo que sugiere desesperanza y tensión acumulada, reflejando el impacto del estrés crónico. Promueve la importancia de la prevención y el acompañamiento psicológico para recuperar equilibrio.</div>",
+                  "el_data_type": "Image Title",
+                  "el_type": "Text",
+                  "elementName": "COMP-2784_title",
+                  "moduleName": "CM-001986",
+                  "css-class": "image-title-text",
+                  "font-size": "12px",
+                  "line-height": "14px",
+                  "padding-bottom": "10px",
+                  "padding-left": "25px",
+                  "padding-right": "0px",
+                  "padding-top": "10px",
+                  "align": "left"
+                }
+              }
+            ]
+          },
+          {
+            "tagName": "mj-column",
+            "attributes": {
+              "width": "30%",
+              "vertical-align": "middle"
+            },
+            "children": [
+              {
+                "icon": "photo",
+                "name": "builder.image",
+                "tagName": "mj-image",
+                "elementName": "COMP-2784",
+                "mustUse": false,
+                "attributes": {
+                  "src": "https://d1t0wo1ho6nrgc.cloudfront.net/components/895609ee-30bb-45fc-85f9-33ab1d0d3579/5e01753e-5292-4d6f-ad09-7a577f8d7fb3/31426_1_0.png",
+                  "fluid-on-mobile": "true",
+                  "el_id": "5e01753e-5292-4d6f-ad09-7a577f8d7fb3",
+                  "el_data_type": "Image",
+                  "el_type": "Component",
+                  "elementName": "COMP-2784",
+                  "moduleName": "CM-001986",
+                  "approved": true,
+                  "css-class": "approved-image",
+                  "width": "150px",
+                  "align": "center",
+                  "padding-left": "0px",
+                  "padding-right": "20px",
+                  "padding-top": "5px",
+                  "padding-bottom": "5px",
+                  "mustUse": false
+                },
+                "el_id": "5e01753e-5292-4d6f-ad09-7a577f8d7fb3",
+                "el_data_type": "Image",
+                "el_type": "Component",
+                "moduleName": "CM-001986"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tagName": "mj-block",
+    "attributes": {
+      "moduleName": "CM-001983",
+      "outline": "2px dashed #00c0f3",
+      "title": "CB Auto - CM-001983",
+      "width": "600px"
+    },
+    "moduleName": "CM-001983",
+    "children": [
+      {
+        "iconHtml": "<div class=\"icon-column col\"></div>",
+        "name": "",
+        "mobilePadding": {},
+        "mobileFontSize": {},
+        "id": "hei",
+        "isLocked": false,
+        "tagName": "mj-section",
+        "attributes": {
+          "css-class": "section_claims",
+          "padding-bottom": "0px",
+          "padding-left": "25px",
+          "padding-right": "25px",
+          "padding-top": "0px"
+        },
+        "children": [
+          {
+            "tagName": "mj-column",
+            "attributes": {
+              "width": "100%",
+              "padding-bottom": "0px",
+              "padding-left": "0px",
+              "padding-right": "0px",
+              "padding-top": "0px",
+              "border": "none",
+              "border-radius": "none"
+            },
+            "children": [
+              {
+                "tagName": "mj-text",
+                "content": "<div><span style='color:#CF0A2C;'>Biktarvy<sup>®</sup></span> es el único régimen completo basado en inhibidor de la integrasa (INI) que ha demostrado <b>cero casos de resistencia en población previamente tratada</b>, ofreciendo <b>eficacia comprobada</b> y <b>seguridad clínica sostenida</b>.<sup data-ref='true' id='CL-006076'>*,4</sup></div>",
+                "elementName": "CL-006076",
+                "referenceVal": ",4",
+                "moduleReferences": [
+                  {
+                    "mustUse": true,
+                    "id": "9d7d507b-f5fb-4422-a8a3-cd7d86a1d55c",
+                    "moduleId": "CM-001983",
+                    "value": "Blanco JL, et al. HIV-1 resistance and virological failure to treatment with the integrase inhibitors bictegravir, cabotegravir and dolutegravir: a systematic literature review. AIDS reviews. 2024.",
+                    "type": "Claim",
+                    "data_type": "Reference",
+                    "elementId": "CL-006076",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001983",
+                    "componentType": null,
+                    "sl_no": 4,
+                    "refValueExistId": [
+                      "CL-006076"
+                    ]
+                  }
+                ],
+                "moduleFootnotes": [
+                  {
+                    "mustUse": true,
+                    "id": "86c79823-4bc7-4c93-a757-0b4c40656f69-Revisión sistemática que incluye ensayos clínicos controlados o estudios observacionales realizados en países desarrollados, con entornos sanitarios y nivel socioeconómico comparable, donde se describen fracasos virológicos o mutaciones de resistencia a inhibidores de la integrasa (INIs: bictegravir [BIC], cabotegravir [CAB], dolutegravir [DTG]). La revisión sistemática se llevó a cabo siguiendo los estándares habituales y, adicionalmente, se aplicaron las directrices internacionales PRISMA para garantizar rigor metodológico y transparencia en la síntesis de la evidencia.",
+                    "moduleId": "CM-001983",
+                    "value": "Revisión sistemática que incluye ensayos clínicos controlados o estudios observacionales realizados en países desarrollados, con entornos sanitarios y nivel socioeconómico comparable, donde se describen fracasos virológicos o mutaciones de resistencia a inhibidores de la integrasa (INIs: bictegravir [BIC], cabotegravir [CAB], dolutegravir [DTG]). La revisión sistemática se llevó a cabo siguiendo los estándares habituales y, adicionalmente, se aplicaron las directrices internacionales PRISMA para garantizar rigor metodológico y transparencia en la síntesis de la evidencia.",
+                    "type": "Claim",
+                    "data_type": "Footnote",
+                    "elementId": "86c79823-4bc7-4c93-a757-0b4c40656f69",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001983",
+                    "componentType": null,
+                    "symbol": "*",
+                    "sl_no": 3
+                  }
+                ],
+                "moduleGlossary": [],
+                "claimSymbol": "",
+                "mustUse": true,
+                "attributes": {
+                  "symbol": "*",
+                  "referenceVal": "4",
+                  "moduleReferences": "[{'mustUse':true,'id':'9d7d507b-f5fb-4422-a8a3-cd7d86a1d55c','moduleId':'CM-001983','value':'Blanco JL, et al. HIV-1 resistance and virological failure to treatment with the integrase inhibitors bictegravir, cabotegravir and dolutegravir: a systematic literature review. AIDS reviews. 2024.','type':'Claim','data_type':'Reference','elementId':'CL-006076','moduleType':'Parent','belongsTo':'CM-001983','componentType':null,'sl_no':4,'refValueExistId':['CL-006076']}]",
+                  "moduleFootnotes": "[{'mustUse':true,'id':'86c79823-4bc7-4c93-a757-0b4c40656f69-Revisión sistemática que incluye ensayos clínicos controlados o estudios observacionales realizados en países desarrollados, con entornos sanitarios y nivel socioeconómico comparable, donde se describen fracasos virológicos o mutaciones de resistencia a inhibidores de la integrasa (INIs: bictegravir [BIC], cabotegravir [CAB], dolutegravir [DTG]). La revisión sistemática se llevó a cabo siguiendo los estándares habituales y, adicionalmente, se aplicaron las directrices internacionales PRISMA para garantizar rigor metodológico y transparencia en la síntesis de la evidencia.','moduleId':'CM-001983','value':'Revisión sistemática que incluye ensayos clínicos controlados o estudios observacionales realizados en países desarrollados, con entornos sanitarios y nivel socioeconómico comparable, donde se describen fracasos virológicos o mutaciones de resistencia a inhibidores de la integrasa (INIs: bictegravir [BIC], cabotegravir [CAB], dolutegravir [DTG]). La revisión sistemática se llevó a cabo siguiendo los estándares habituales y, adicionalmente, se aplicaron las directrices internacionales PRISMA para garantizar rigor metodológico y transparencia en la síntesis de la evidencia.','type':'Claim','data_type':'Footnote','elementId':'86c79823-4bc7-4c93-a757-0b4c40656f69','moduleType':'Parent','belongsTo':'CM-001983','componentType':null,'symbol':'*','sl_no':3}]",
+                  "moduleGlossary": "[]",
+                  "claimSymbol": "",
+                  "mustUse": true,
+                  "claimText": "Biktarvy® es el único régimen completo basado en inhibidor de la integrasa (INI) que ha demostrado cero casos de resistencia en población previamente tratada, ofreciendo eficacia comprobada y seguridad clínica sostenida.",
+                  "moduleName": "CM-001983",
+                  "el_data_type": "Match Text",
+                  "el_id": "86c79823-4bc7-4c93-a757-0b4c40656f69",
+                  "approved": true,
+                  "elementName": "CL-006076",
+                  "el_type": "Claim",
+                  "font-size": "14px",
+                  "line-height": "17px",
+                  "padding-bottom": "5px",
+                  "padding-left": "25px",
+                  "padding-right": "25px",
+                  "padding-top": "5px",
+                  "color": "#edebe3",
+                  "content": "<div>Biktarvy® es el único régimen completo basado en inhibidor de la integrasa (INI) que ha demostrado cero casos de resistencia en población previamente tratada, ofreciendo eficacia comprobada y seguridad clínica sostenida.<sup data-ref='true' id='CL-006076'>*,4</sup></div>",
+                  "footnoteSymbols": "*",
+                  "relatedTo": "",
+                  "isEdited": false,
+                  "align": "center",
+                  "font-weight": "700",
+                  "container-background-color": "#CF0A2C",
+                  "parentSymbolArray": "null"
+                },
+                "el_id": "86c79823-4bc7-4c93-a757-0b4c40656f69",
+                "relatedTo": "",
+                "symbol": "",
+                "claimText": "Biktarvy® es el único régimen completo basado en inhibidor de la integrasa (INI) que ha demostrado cero casos de resistencia en población previamente tratada, ofreciendo eficacia comprobada y seguridad clínica sostenida.",
+                "el_data_type": "Match Text",
+                "el_type": "Claim",
+                "moduleName": "CM-001983",
+                "border_box": "",
+                "randomKey": "add_background_color"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "iconHtml": "<div class=\"icon-column col\"></div>",
+        "name": "",
+        "mobilePadding": {},
+        "mobileFontSize": {},
+        "id": "1le",
+        "isLocked": false,
+        "tagName": "mj-section",
+        "attributes": {
+          "css-class": "section_claims",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "padding-right": "0px",
+          "padding-top": "0px"
+        },
+        "children": [
+          {
+            "tagName": "mj-column",
+            "attributes": {
+              "width": "100%",
+              "padding-bottom": "0px",
+              "padding-left": "0px",
+              "padding-right": "0px",
+              "padding-top": "0px",
+              "border": "none",
+              "border-radius": "none"
+            },
+            "children": [
+              {
+                "tagName": "mj-text",
+                "content": "<div>Las mutaciones de <span style='color:#CF0A2C;'>resistencia</span> asociadas al tratamiento antirretroviral (<span style='color:#CF0A2C;'>TAR</span>) representan un desafío clínico significativo en <span style='color:#CF0A2C;'>pacientes</span> previamente tratados, comprometiendo la eficacia terapéutica y limitando las <span style='color:#CF0A2C;'>opciones</span> de régimen óptimo.<sup data-ref='true' id='CL-006096'>4</sup></div>",
+                "elementName": "CL-006096",
+                "referenceVal": "4",
+                "moduleReferences": [
+                  {
+                    "mustUse": false,
+                    "id": "f5e69c13-5e17-4993-acae-3dd8717396de",
+                    "moduleId": "CM-001983",
+                    "value": "Blanco JL, et al. HIV-1 resistance and virological failure to treatment with the integrase inhibitors bictegravir, cabotegravir and dolutegravir: a systematic literature review. AIDS reviews. 2024.",
+                    "type": "Claim",
+                    "data_type": "Reference",
+                    "elementId": "CL-006096",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001983",
+                    "componentType": null
+                  }
+                ],
+                "moduleFootnotes": [],
+                "moduleGlossary": [
+                  {
+                    "mustUse": false,
+                    "id": "V1X00000007A001-TAR: tratamiento antirretroviral.0",
+                    "moduleId": "CM-001983",
+                    "value": "TAR: tratamiento antirretroviral.",
+                    "type": "Claim",
+                    "data_type": "Glossary",
+                    "elementId": "CL-006096",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001983",
+                    "componentType": null,
+                    "sl_no": 2
+                  }
+                ],
+                "claimSymbol": "",
+                "mustUse": false,
+                "attributes": {
+                  "symbol": "",
+                  "referenceVal": "4",
+                  "moduleReferences": "[{'mustUse':false,'id':'f5e69c13-5e17-4993-acae-3dd8717396de','moduleId':'CM-001983','value':'Blanco JL, et al. HIV-1 resistance and virological failure to treatment with the integrase inhibitors bictegravir, cabotegravir and dolutegravir: a systematic literature review. AIDS reviews. 2024.','type':'Claim','data_type':'Reference','elementId':'CL-006096','moduleType':'Parent','belongsTo':'CM-001983','componentType':null}]",
+                  "moduleFootnotes": "[]",
+                  "moduleGlossary": "[{'mustUse':false,'id':'V1X00000007A001-TAR: tratamiento antirretroviral.0','moduleId':'CM-001983','value':'TAR: tratamiento antirretroviral.','type':'Claim','data_type':'Glossary','elementId':'CL-006096','moduleType':'Parent','belongsTo':'CM-001983','componentType':null,'sl_no':2}]",
+                  "claimSymbol": "",
+                  "mustUse": false,
+                  "claimText": "Las mutaciones de resistencia asociadas al tratamiento antirretroviral (TAR) representan un desafío clínico significativo en pacientes previamente tratados, comprometiendo la eficacia terapéutica y limitando las opciones de régimen óptimo.",
+                  "moduleName": "CM-001983",
+                  "el_data_type": "Match Text",
+                  "el_id": "29e7bec0-e52c-4414-bf84-bcf4772cb528",
+                  "approved": true,
+                  "elementName": "CL-006096",
+                  "el_type": "Claim",
+                  "font-size": "12px",
+                  "line-height": "14px",
+                  "padding-bottom": "5px",
+                  "padding-left": "25px",
+                  "padding-right": "25px",
+                  "padding-top": "5px",
+                  "color": "#000000",
+                  "content": "<div>Las mutaciones de resistencia asociadas al tratamiento antirretroviral (TAR) representan un desafío clínico significativo en pacientes previamente tratados, comprometiendo la eficacia terapéutica y limitando las opciones de régimen óptimo.<sup data-ref='true' id='CL-006096'>4</sup></div>",
+                  "footnoteSymbols": "",
+                  "relatedTo": "",
+                  "isEdited": false,
+                  "align": "left",
+                  "font-weight": "400",
+                  "parentSymbolArray": "null"
+                },
+                "el_id": "29e7bec0-e52c-4414-bf84-bcf4772cb528",
+                "relatedTo": "",
+                "symbol": "",
+                "claimText": "Las mutaciones de resistencia asociadas al tratamiento antirretroviral (TAR) representan un desafío clínico significativo en pacientes previamente tratados, comprometiendo la eficacia terapéutica y limitando las opciones de régimen óptimo.",
+                "el_data_type": "Match Text",
+                "el_type": "Claim",
+                "moduleName": "CM-001983",
+                "border_box": "",
+                "randomKey": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "iconHtml": "<div class=\"icon-column col\"></div>",
+        "name": "",
+        "mobilePadding": {},
+        "mobileFontSize": {},
+        "id": "vwj",
+        "isLocked": false,
+        "tagName": "mj-section",
+        "attributes": {
+          "css-class": "section_image",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "padding-right": "0px",
+          "padding-top": "0px"
+        },
+        "children": [
+          {
+            "tagName": "mj-column",
+            "attributes": {
+              "width": "100%"
+            },
+            "children": [
+              {
+                "icon": "photo",
+                "name": "builder.image",
+                "tagName": "mj-image",
+                "elementName": "COMP-2771",
+                "mustUse": true,
+                "attributes": {
+                  "src": "https://d1t0wo1ho6nrgc.cloudfront.net/components/376e0c44-8c30-49bb-a506-6919f4ba04d8/b2ad90cf-bc71-43ce-847d-9bbde5330e44/31261_1_0.png",
+                  "fluid-on-mobile": "true",
+                  "el_id": "b2ad90cf-bc71-43ce-847d-9bbde5330e44",
+                  "el_data_type": "Image",
+                  "el_type": "Component",
+                  "elementName": "COMP-2771",
+                  "moduleName": "CM-001983",
+                  "approved": true,
+                  "css-class": "approved-image",
+                  "mustUse": true
+                },
+                "el_id": "b2ad90cf-bc71-43ce-847d-9bbde5330e44",
+                "el_data_type": "Image",
+                "el_type": "Component",
+                "moduleName": "CM-001983"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tagName": "mj-block",
+    "attributes": {
+      "moduleName": "CM-001987",
+      "outline": "2px dashed #00c0f3",
+      "title": "CB Auto - CM-001987",
+      "width": "600px"
+    },
+    "moduleName": "CM-001987",
+    "children": [
+      {
+        "iconHtml": "<div class=\"icon-column col\"></div>",
+        "name": "",
+        "mobilePadding": {},
+        "mobileFontSize": {},
+        "id": "9kx",
+        "isLocked": false,
+        "tagName": "mj-section",
+        "attributes": {
+          "css-class": "section_claims",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "padding-right": "0px",
+          "padding-top": "0px"
+        },
+        "children": [
+          {
+            "tagName": "mj-column",
+            "attributes": {
+              "width": "100%",
+              "padding-bottom": "0px",
+              "padding-left": "0px",
+              "padding-right": "0px",
+              "padding-top": "0px",
+              "border": "none",
+              "border-radius": "none"
+            },
+            "children": [
+              {
+                "tagName": "mj-text",
+                "content": "<div>Las mutaciones de <span style='color:#CF0A2C;'>resistencia</span> asociadas al tratamiento antirretroviral (<span style='color:#CF0A2C;'>TAR</span>) son un desafío clínico frecuente en <span style='color:#CF0A2C;'>pVIH</span> previamente tratados, limitando opciones terapéuticas y comprometiendo la eficacia virológica a largo plazo.<sup data-ref='true' id='CL-006097'>5</sup></div>",
+                "elementName": "CL-006097",
+                "referenceVal": "5",
+                "moduleReferences": [
+                  {
+                    "mustUse": false,
+                    "id": "836f98dd-8e01-4895-b6d5-b24cc32c15bf",
+                    "moduleId": "CM-001987",
+                    "value": "Hernando V, et al. Tendencia en la vacunación en personas con infección por VIH participantes en la Encuesta Hospitalaria de pacientes con VIH, 2006-2021. Enferm Infecc Microbiol Clin 2024 Aug-Sept;42(7):339-46. doi: 10.1016/j.eimc.2023.06.00.",
+                    "type": "Claim",
+                    "data_type": "Reference",
+                    "elementId": "CL-006097",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001987",
+                    "componentType": null,
+                    "sl_no": 5,
+                    "refValueExistId": [
+                      "CL-006097"
+                    ]
+                  }
+                ],
+                "moduleFootnotes": [],
+                "moduleGlossary": [],
+                "claimSymbol": "",
+                "mustUse": false,
+                "attributes": {
+                  "symbol": "",
+                  "referenceVal": "5",
+                  "moduleReferences": "[{'mustUse':false,'id':'836f98dd-8e01-4895-b6d5-b24cc32c15bf','moduleId':'CM-001987','value':'Hernando V, et al. Tendencia en la vacunación en personas con infección por VIH participantes en la Encuesta Hospitalaria de pacientes con VIH, 2006-2021. Enferm Infecc Microbiol Clin 2024 Aug-Sept;42(7):339-46. doi: 10.1016/j.eimc.2023.06.00.','type':'Claim','data_type':'Reference','elementId':'CL-006097','moduleType':'Parent','belongsTo':'CM-001987','componentType':null,'sl_no':5,'refValueExistId':['CL-006097']}]",
+                  "moduleFootnotes": "[]",
+                  "moduleGlossary": "[]",
+                  "claimSymbol": "",
+                  "mustUse": false,
+                  "claimText": "Las mutaciones de resistencia asociadas al tratamiento antirretroviral (TAR) son un desafío clínico frecuente en pacientes previamente tratados, limitando opciones terapéuticas y comprometiendo la eficacia virológica a largo plazo.",
+                  "moduleName": "CM-001987",
+                  "el_data_type": "Match Text",
+                  "el_id": "eee071e4-ce87-458b-b289-05d21e1e28cd",
+                  "approved": true,
+                  "elementName": "CL-006097",
+                  "el_type": "Claim",
+                  "font-size": "14px",
+                  "line-height": "17px",
+                  "padding-bottom": "20px",
+                  "padding-left": "25px",
+                  "padding-right": "25px",
+                  "padding-top": "5px",
+                  "color": "#c00000",
+                  "content": "<div>Las mutaciones de resistencia asociadas al tratamiento antirretroviral (TAR) son un desafío clínico frecuente en pacientes previamente tratados, limitando opciones terapéuticas y comprometiendo la eficacia virológica a largo plazo.<sup data-ref='true' id='CL-006097'>5</sup></div>",
+                  "footnoteSymbols": "",
+                  "relatedTo": "",
+                  "isEdited": false,
+                  "align": "center",
+                  "font-weight": "700",
+                  "parentSymbolArray": "null"
+                },
+                "el_id": "eee071e4-ce87-458b-b289-05d21e1e28cd",
+                "relatedTo": "",
+                "symbol": "",
+                "claimText": "Las mutaciones de resistencia asociadas al tratamiento antirretroviral (TAR) son un desafío clínico frecuente en pacientes previamente tratados, limitando opciones terapéuticas y comprometiendo la eficacia virológica a largo plazo.",
+                "el_data_type": "Match Text",
+                "el_type": "Claim",
+                "moduleName": "CM-001987",
+                "border_box": "",
+                "randomKey": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "iconHtml": "<div class=\"icon-column col\"></div>",
+        "name": "",
+        "mobilePadding": {},
+        "mobileFontSize": {},
+        "id": "yq8",
+        "isLocked": false,
+        "tagName": "mj-section",
+        "attributes": {
+          "css-class": "section_claims",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "padding-right": "0px",
+          "padding-top": "0px"
+        },
+        "children": [
+          {
+            "tagName": "mj-column",
+            "attributes": {
+              "width": "100%",
+              "padding-bottom": "0px",
+              "padding-left": "0px",
+              "padding-right": "0px",
+              "padding-top": "0px",
+              "border": "none",
+              "border-radius": "none"
+            },
+            "children": [
+              {
+                "tagName": "mj-text",
+                "content": "<div>Las <span style='color:#CF0A2C;'>PVIH</span> que cambiaron a <span style='color:#CF0A2C;'>Biktarvy<sup>®</sup></span> reportaron mejoras en el sueño, comparado con las que continuaron con regímenes basados en DTG<sup data-ref='true' id='CL-006098'>*,5</sup></div>",
+                "elementName": "CL-006098",
+                "referenceVal": ",5",
+                "moduleReferences": [
+                  {
+                    "mustUse": false,
+                    "id": "3faa862c-8e80-413b-b70f-51eab7ce66d6",
+                    "moduleId": "CM-001987",
+                    "value": "Hernando V, et al. Tendencia en la vacunación en personas con infección por VIH participantes en la Encuesta Hospitalaria de pacientes con VIH, 2006-2021. Enferm Infecc Microbiol Clin 2024 Aug-Sept;42(7):339-46. doi: 10.1016/j.eimc.2023.06.00.",
+                    "type": "Claim",
+                    "data_type": "Reference",
+                    "elementId": "CL-006098",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001987",
+                    "componentType": null
+                  }
+                ],
+                "moduleFootnotes": [
+                  {
+                    "mustUse": false,
+                    "id": "9505cd3e-bf7f-4ba1-bee7-bcd169b71986-Estudio piloto llevado a cabo en PVIH con insomnio que cambiaron de regímenes basados en DTG a BIKTARVY en los que se evaluaron los cambios en los parámetros cerebrales a los 120 días medidos mediante: PROs, Resonancia Magnética funcional cerebral en estado de reposo y biomarcadores sanguíneos asociados con activación neuronal e inflamación.",
+                    "moduleId": "CM-001987",
+                    "value": "Estudio piloto llevado a cabo en PVIH con insomnio que cambiaron de regímenes basados en DTG a BIKTARVY en los que se evaluaron los cambios en los parámetros cerebrales a los 120 días medidos mediante: PROs, Resonancia Magnética funcional cerebral en estado de reposo y biomarcadores sanguíneos asociados con activación neuronal e inflamación.",
+                    "type": "Claim",
+                    "data_type": "Footnote",
+                    "elementId": "9505cd3e-bf7f-4ba1-bee7-bcd169b71986",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001987",
+                    "componentType": null,
+                    "symbol": "*",
+                    "sl_no": 4
+                  }
+                ],
+                "moduleGlossary": [
+                  {
+                    "mustUse": false,
+                    "id": "V1X00000007A003-DTG: dolutegravir0",
+                    "moduleId": "CM-001987",
+                    "value": "DTG: dolutegravir",
+                    "type": "Claim",
+                    "data_type": "Glossary",
+                    "elementId": "CL-006098",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001987",
+                    "componentType": null,
+                    "sl_no": 3
+                  },
+                  {
+                    "mustUse": false,
+                    "id": "V1X00000007A003-PROs: Patient-reported outcomes1",
+                    "moduleId": "CM-001987",
+                    "value": "PROs: Patient-reported outcomes",
+                    "type": "Claim",
+                    "data_type": "Glossary",
+                    "elementId": "CL-006098",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001987",
+                    "componentType": null,
+                    "sl_no": 4
+                  },
+                  {
+                    "mustUse": false,
+                    "id": "V1X00000007A003-PVIH: personas con VIH2",
+                    "moduleId": "CM-001987",
+                    "value": "PVIH: personas con VIH",
+                    "type": "Claim",
+                    "data_type": "Glossary",
+                    "elementId": "CL-006098",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001987",
+                    "componentType": null,
+                    "sl_no": 5
+                  },
+                  {
+                    "mustUse": false,
+                    "id": "V1X00000007A003-VIH: virus de inmunodeficiencia humana.3",
+                    "moduleId": "CM-001987",
+                    "value": "VIH: virus de inmunodeficiencia humana.",
+                    "type": "Claim",
+                    "data_type": "Glossary",
+                    "elementId": "CL-006098",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001987",
+                    "componentType": null,
+                    "sl_no": 6
+                  }
+                ],
+                "claimSymbol": "",
+                "mustUse": false,
+                "attributes": {
+                  "symbol": "*",
+                  "referenceVal": "5",
+                  "moduleReferences": "[{'mustUse':false,'id':'3faa862c-8e80-413b-b70f-51eab7ce66d6','moduleId':'CM-001987','value':'Hernando V, et al. Tendencia en la vacunación en personas con infección por VIH participantes en la Encuesta Hospitalaria de pacientes con VIH, 2006-2021. Enferm Infecc Microbiol Clin 2024 Aug-Sept;42(7):339-46. doi: 10.1016/j.eimc.2023.06.00.','type':'Claim','data_type':'Reference','elementId':'CL-006098','moduleType':'Parent','belongsTo':'CM-001987','componentType':null}]",
+                  "moduleFootnotes": "[{'mustUse':false,'id':'9505cd3e-bf7f-4ba1-bee7-bcd169b71986-Estudio piloto llevado a cabo en PVIH con insomnio que cambiaron de regímenes basados en DTG a BIKTARVY en los que se evaluaron los cambios en los parámetros cerebrales a los 120 días medidos mediante: PROs, Resonancia Magnética funcional cerebral en estado de reposo y biomarcadores sanguíneos asociados con activación neuronal e inflamación.','moduleId':'CM-001987','value':'Estudio piloto llevado a cabo en PVIH con insomnio que cambiaron de regímenes basados en DTG a BIKTARVY en los que se evaluaron los cambios en los parámetros cerebrales a los 120 días medidos mediante: PROs, Resonancia Magnética funcional cerebral en estado de reposo y biomarcadores sanguíneos asociados con activación neuronal e inflamación.','type':'Claim','data_type':'Footnote','elementId':'9505cd3e-bf7f-4ba1-bee7-bcd169b71986','moduleType':'Parent','belongsTo':'CM-001987','componentType':null,'symbol':'*','sl_no':4}]",
+                  "moduleGlossary": "[{'mustUse':false,'id':'V1X00000007A003-DTG: dolutegravir0','moduleId':'CM-001987','value':'DTG: dolutegravir','type':'Claim','data_type':'Glossary','elementId':'CL-006098','moduleType':'Parent','belongsTo':'CM-001987','componentType':null,'sl_no':3},{'mustUse':false,'id':'V1X00000007A003-PROs: Patient-reported outcomes1','moduleId':'CM-001987','value':'PROs: Patient-reported outcomes','type':'Claim','data_type':'Glossary','elementId':'CL-006098','moduleType':'Parent','belongsTo':'CM-001987','componentType':null,'sl_no':4},{'mustUse':false,'id':'V1X00000007A003-PVIH: personas con VIH2','moduleId':'CM-001987','value':'PVIH: personas con VIH','type':'Claim','data_type':'Glossary','elementId':'CL-006098','moduleType':'Parent','belongsTo':'CM-001987','componentType':null,'sl_no':5},{'mustUse':false,'id':'V1X00000007A003-VIH: virus de inmunodeficiencia humana.3','moduleId':'CM-001987','value':'VIH: virus de inmunodeficiencia humana.','type':'Claim','data_type':'Glossary','elementId':'CL-006098','moduleType':'Parent','belongsTo':'CM-001987','componentType':null,'sl_no':6}]",
+                  "claimSymbol": "",
+                  "mustUse": false,
+                  "claimText": "Las PVIH que cambiaron a BIKTARVY reportaron mejoras en el sueño, comparado con las que continuaron con regímenes basados en DTG",
+                  "moduleName": "CM-001987",
+                  "el_data_type": "Match Text",
+                  "el_id": "9505cd3e-bf7f-4ba1-bee7-bcd169b71986",
+                  "approved": true,
+                  "elementName": "CL-006098",
+                  "el_type": "Claim",
+                  "font-size": "12px",
+                  "line-height": "14px",
+                  "padding-bottom": "5px",
+                  "padding-left": "25px",
+                  "padding-right": "25px",
+                  "padding-top": "5px",
+                  "color": "#000000",
+                  "content": "<div>Las PVIH que cambiaron a BIKTARVY reportaron mejoras en el sueño, comparado con las que continuaron con regímenes basados en DTG<sup data-ref='true' id='CL-006098'>*,5</sup></div>",
+                  "footnoteSymbols": "*",
+                  "relatedTo": "",
+                  "isEdited": false,
+                  "align": "left",
+                  "font-weight": "400",
+                  "parentSymbolArray": "null"
+                },
+                "el_id": "9505cd3e-bf7f-4ba1-bee7-bcd169b71986",
+                "relatedTo": "",
+                "symbol": "",
+                "claimText": "Las PVIH que cambiaron a BIKTARVY reportaron mejoras en el sueño, comparado con las que continuaron con regímenes basados en DTG",
+                "el_data_type": "Match Text",
+                "el_type": "Claim",
+                "moduleName": "CM-001987",
+                "border_box": "",
+                "randomKey": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "iconHtml": "<div class=\"icon-column col\"></div>",
+        "name": "",
+        "mobilePadding": {},
+        "mobileFontSize": {},
+        "id": "tfa",
+        "isLocked": false,
+        "tagName": "mj-section",
+        "attributes": {
+          "css-class": "section_claims",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "padding-right": "0px",
+          "padding-top": "0px"
+        },
+        "children": [
+          {
+            "tagName": "mj-column",
+            "attributes": {
+              "width": "100%",
+              "padding-bottom": "0px",
+              "padding-left": "0px",
+              "padding-right": "0px",
+              "padding-top": "0px",
+              "border": "none",
+              "border-radius": "none"
+            },
+            "children": [
+              {
+                "tagName": "mj-text",
+                "content": "<div><span style='color:#CF0A2C;'>Biktarvy<sup>®</sup></span> mejora la <span style='color:#CF0A2C;'>calidad de vida</span> de las <span style='color:#CF0A2C;'>PVIH</span> al ofrecer un régimen antirretroviral completo, <span style='color:#CF0A2C;'>eficaz</span> y bien tolerado, que contribuye a la <span style='color:#CF0A2C;'>estabilidad virológica</span> y al <span style='color:#CF0A2C;'>bienestar físico y emocional</span> a largo plazo.<sup data-ref='true' id='CL-006099'>5</sup></div>",
+                "elementName": "CL-006099",
+                "referenceVal": "5",
+                "moduleReferences": [
+                  {
+                    "mustUse": false,
+                    "id": "79ea6e29-24b0-4c41-a82e-e35c9cb0b390",
+                    "moduleId": "CM-001987",
+                    "value": "Hernando V, et al. Tendencia en la vacunación en personas con infección por VIH participantes en la Encuesta Hospitalaria de pacientes con VIH, 2006-2021. Enferm Infecc Microbiol Clin 2024 Aug-Sept;42(7):339-46. doi: 10.1016/j.eimc.2023.06.00.",
+                    "type": "Claim",
+                    "data_type": "Reference",
+                    "elementId": "CL-006099",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001987",
+                    "componentType": null
+                  }
+                ],
+                "moduleFootnotes": [],
+                "moduleGlossary": [
+                  {
+                    "mustUse": false,
+                    "id": "V1X00000007A004-PVIH: personas con VIH0",
+                    "moduleId": "CM-001987",
+                    "value": "PVIH: personas con VIH",
+                    "type": "Claim",
+                    "data_type": "Glossary",
+                    "elementId": "CL-006099",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001987",
+                    "componentType": null
+                  },
+                  {
+                    "mustUse": false,
+                    "id": "V1X00000007A004-VIH: virus de inmunodeficiencia humana.1",
+                    "moduleId": "CM-001987",
+                    "value": "VIH: virus de inmunodeficiencia humana.",
+                    "type": "Claim",
+                    "data_type": "Glossary",
+                    "elementId": "CL-006099",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001987",
+                    "componentType": null
+                  }
+                ],
+                "claimSymbol": "",
+                "mustUse": false,
+                "attributes": {
+                  "symbol": "",
+                  "referenceVal": "5",
+                  "moduleReferences": "[{'mustUse':false,'id':'79ea6e29-24b0-4c41-a82e-e35c9cb0b390','moduleId':'CM-001987','value':'Hernando V, et al. Tendencia en la vacunación en personas con infección por VIH participantes en la Encuesta Hospitalaria de pacientes con VIH, 2006-2021. Enferm Infecc Microbiol Clin 2024 Aug-Sept;42(7):339-46. doi: 10.1016/j.eimc.2023.06.00.','type':'Claim','data_type':'Reference','elementId':'CL-006099','moduleType':'Parent','belongsTo':'CM-001987','componentType':null}]",
+                  "moduleFootnotes": "[]",
+                  "moduleGlossary": "[{'mustUse':false,'id':'V1X00000007A004-PVIH: personas con VIH0','moduleId':'CM-001987','value':'PVIH: personas con VIH','type':'Claim','data_type':'Glossary','elementId':'CL-006099','moduleType':'Parent','belongsTo':'CM-001987','componentType':null},{'mustUse':false,'id':'V1X00000007A004-VIH: virus de inmunodeficiencia humana.1','moduleId':'CM-001987','value':'VIH: virus de inmunodeficiencia humana.','type':'Claim','data_type':'Glossary','elementId':'CL-006099','moduleType':'Parent','belongsTo':'CM-001987','componentType':null}]",
+                  "claimSymbol": "",
+                  "mustUse": false,
+                  "claimText": "BIKTARVY mejora la calidad de vida de las PVIH al ofrecer un régimen antirretroviral completo, eficaz y bien tolerado, que contribuye a la estabilidad virológica y al bienestar físico y emocional a largo plazo.",
+                  "moduleName": "CM-001987",
+                  "el_data_type": "Match Text",
+                  "el_id": "35b85b09-137e-4a11-9dbb-9c29bb1e5d7d",
+                  "approved": true,
+                  "elementName": "CL-006099",
+                  "el_type": "Claim",
+                  "font-size": "12px",
+                  "line-height": "14px",
+                  "padding-bottom": "5px",
+                  "padding-left": "25px",
+                  "padding-right": "25px",
+                  "padding-top": "5px",
+                  "color": "#000000",
+                  "content": "<div>BIKTARVY mejora la calidad de vida de las PVIH al ofrecer un régimen antirretroviral completo, eficaz y bien tolerado, que contribuye a la estabilidad virológica y al bienestar físico y emocional a largo plazo.<sup data-ref='true' id='CL-006099'>5</sup></div>",
+                  "footnoteSymbols": "",
+                  "relatedTo": "",
+                  "isEdited": false,
+                  "align": "left",
+                  "font-weight": "400",
+                  "parentSymbolArray": "null"
+                },
+                "el_id": "35b85b09-137e-4a11-9dbb-9c29bb1e5d7d",
+                "relatedTo": "",
+                "symbol": "",
+                "claimText": "BIKTARVY mejora la calidad de vida de las PVIH al ofrecer un régimen antirretroviral completo, eficaz y bien tolerado, que contribuye a la estabilidad virológica y al bienestar físico y emocional a largo plazo.",
+                "el_data_type": "Match Text",
+                "el_type": "Claim",
+                "moduleName": "CM-001987",
+                "border_box": "",
+                "randomKey": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "iconHtml": "<div class=\"icon-column col\"></div>",
+        "name": "",
+        "mobilePadding": {},
+        "mobileFontSize": {},
+        "id": "mpr",
+        "isLocked": false,
+        "tagName": "mj-section",
+        "attributes": {
+          "css-class": "section_claims",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "padding-right": "0px",
+          "padding-top": "0px"
+        },
+        "children": [
+          {
+            "tagName": "mj-column",
+            "attributes": {
+              "width": "100%",
+              "padding-bottom": "0px",
+              "padding-left": "0px",
+              "padding-right": "0px",
+              "padding-top": "0px",
+              "border": "none",
+              "border-radius": "none"
+            },
+            "children": [
+              {
+                "tagName": "mj-text",
+                "content": "<div>Las <span style='color:#CF0A2C;'>PVIH</span> que cambiaron a <span style='color:#CF0A2C;'>Biktarvy<sup>®</sup></span> reportaron mejoras en el sueño, la <span style='color:#CF0A2C;'>calidad de vida</span> y el <span style='color:#CF0A2C;'>RS fMRI</span> asociados con el sueño comparado con las que continuaron con regímenes basados en DTG<sup data-ref='true' id='CL-006100'>†,5</sup></div>",
+                "elementName": "CL-006100",
+                "referenceVal": ",5",
+                "moduleReferences": [
+                  {
+                    "mustUse": true,
+                    "id": "33f3a906-850f-42cb-a56e-192a5fba7153",
+                    "moduleId": "CM-001987",
+                    "value": "Hernando V, et al. Tendencia en la vacunación en personas con infección por VIH participantes en la Encuesta Hospitalaria de pacientes con VIH, 2006-2021. Enferm Infecc Microbiol Clin 2024 Aug-Sept;42(7):339-46. doi: 10.1016/j.eimc.2023.06.00.",
+                    "type": "Claim",
+                    "data_type": "Reference",
+                    "elementId": "CL-006100",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001987",
+                    "componentType": null
+                  }
+                ],
+                "moduleFootnotes": [
+                  {
+                    "mustUse": true,
+                    "id": "67b998ec-5144-487c-98be-8edf92b23b51-Resting state fMRI es un método de imagen por resonancia magnética funcional (fMRI).",
+                    "moduleId": "CM-001987",
+                    "value": "Resting state fMRI es un método de imagen por resonancia magnética funcional (fMRI).",
+                    "type": "Claim",
+                    "data_type": "Footnote",
+                    "elementId": "67b998ec-5144-487c-98be-8edf92b23b51",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001987",
+                    "componentType": null,
+                    "symbol": "†",
+                    "sl_no": 5
+                  }
+                ],
+                "moduleGlossary": [
+                  {
+                    "mustUse": true,
+                    "id": "V1X00000007A005-DTG: dolutegravir0",
+                    "moduleId": "CM-001987",
+                    "value": "DTG: dolutegravir",
+                    "type": "Claim",
+                    "data_type": "Glossary",
+                    "elementId": "CL-006100",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001987",
+                    "componentType": null
+                  },
+                  {
+                    "mustUse": true,
+                    "id": "V1X00000007A005-fMRI:  imagen por resonancia magnética funcional1",
+                    "moduleId": "CM-001987",
+                    "value": "fMRI:  imagen por resonancia magnética funcional",
+                    "type": "Claim",
+                    "data_type": "Glossary",
+                    "elementId": "CL-006100",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001987",
+                    "componentType": null,
+                    "sl_no": 7
+                  },
+                  {
+                    "mustUse": true,
+                    "id": "V1X00000007A005-PVIH: personas con VIH2",
+                    "moduleId": "CM-001987",
+                    "value": "PVIH: personas con VIH",
+                    "type": "Claim",
+                    "data_type": "Glossary",
+                    "elementId": "CL-006100",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001987",
+                    "componentType": null
+                  },
+                  {
+                    "mustUse": true,
+                    "id": "V1X00000007A005-RS: resting state3",
+                    "moduleId": "CM-001987",
+                    "value": "RS: resting state",
+                    "type": "Claim",
+                    "data_type": "Glossary",
+                    "elementId": "CL-006100",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001987",
+                    "componentType": null,
+                    "sl_no": 8
+                  },
+                  {
+                    "mustUse": true,
+                    "id": "V1X00000007A005-VIH: virus de inmunodeficiencia humana.4",
+                    "moduleId": "CM-001987",
+                    "value": "VIH: virus de inmunodeficiencia humana.",
+                    "type": "Claim",
+                    "data_type": "Glossary",
+                    "elementId": "CL-006100",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001987",
+                    "componentType": null
+                  }
+                ],
+                "claimSymbol": "",
+                "mustUse": true,
+                "attributes": {
+                  "symbol": "†",
+                  "referenceVal": "5",
+                  "moduleReferences": "[{'mustUse':true,'id':'33f3a906-850f-42cb-a56e-192a5fba7153','moduleId':'CM-001987','value':'Hernando V, et al. Tendencia en la vacunación en personas con infección por VIH participantes en la Encuesta Hospitalaria de pacientes con VIH, 2006-2021. Enferm Infecc Microbiol Clin 2024 Aug-Sept;42(7):339-46. doi: 10.1016/j.eimc.2023.06.00.','type':'Claim','data_type':'Reference','elementId':'CL-006100','moduleType':'Parent','belongsTo':'CM-001987','componentType':null}]",
+                  "moduleFootnotes": "[{'mustUse':true,'id':'67b998ec-5144-487c-98be-8edf92b23b51-Resting state fMRI es un método de imagen por resonancia magnética funcional (fMRI).','moduleId':'CM-001987','value':'Resting state fMRI es un método de imagen por resonancia magnética funcional (fMRI).','type':'Claim','data_type':'Footnote','elementId':'67b998ec-5144-487c-98be-8edf92b23b51','moduleType':'Parent','belongsTo':'CM-001987','componentType':null,'symbol':'†','sl_no':5}]",
+                  "moduleGlossary": "[{'mustUse':true,'id':'V1X00000007A005-DTG: dolutegravir0','moduleId':'CM-001987','value':'DTG: dolutegravir','type':'Claim','data_type':'Glossary','elementId':'CL-006100','moduleType':'Parent','belongsTo':'CM-001987','componentType':null},{'mustUse':true,'id':'V1X00000007A005-fMRI:  imagen por resonancia magnética funcional1','moduleId':'CM-001987','value':'fMRI:  imagen por resonancia magnética funcional','type':'Claim','data_type':'Glossary','elementId':'CL-006100','moduleType':'Parent','belongsTo':'CM-001987','componentType':null,'sl_no':7},{'mustUse':true,'id':'V1X00000007A005-PVIH: personas con VIH2','moduleId':'CM-001987','value':'PVIH: personas con VIH','type':'Claim','data_type':'Glossary','elementId':'CL-006100','moduleType':'Parent','belongsTo':'CM-001987','componentType':null},{'mustUse':true,'id':'V1X00000007A005-RS: resting state3','moduleId':'CM-001987','value':'RS: resting state','type':'Claim','data_type':'Glossary','elementId':'CL-006100','moduleType':'Parent','belongsTo':'CM-001987','componentType':null,'sl_no':8},{'mustUse':true,'id':'V1X00000007A005-VIH: virus de inmunodeficiencia humana.4','moduleId':'CM-001987','value':'VIH: virus de inmunodeficiencia humana.','type':'Claim','data_type':'Glossary','elementId':'CL-006100','moduleType':'Parent','belongsTo':'CM-001987','componentType':null}]",
+                  "claimSymbol": "",
+                  "mustUse": true,
+                  "claimText": "Las PVIH que cambiaron a BIKTARVY reportaron mejoras en el sueño, la calidad de vida y el RS fMRI asociados con el sueño comparado con las que continuaron con regímenes basados en DTG",
+                  "moduleName": "CM-001987",
+                  "el_data_type": "Match Text",
+                  "el_id": "67b998ec-5144-487c-98be-8edf92b23b51",
+                  "approved": true,
+                  "elementName": "CL-006100",
+                  "el_type": "Claim",
+                  "font-size": "12px",
+                  "line-height": "14px",
+                  "padding-bottom": "5px",
+                  "padding-left": "25px",
+                  "padding-right": "25px",
+                  "padding-top": "5px",
+                  "color": "#000000",
+                  "content": "<div>Las PVIH que cambiaron a BIKTARVY reportaron mejoras en el sueño, la calidad de vida y el RS fMRI asociados con el sueño comparado con las que continuaron con regímenes basados en DTG<sup data-ref='true' id='CL-006100'>†,5</sup></div>",
+                  "footnoteSymbols": "†",
+                  "relatedTo": "",
+                  "isEdited": false,
+                  "align": "left",
+                  "font-weight": "400",
+                  "parentSymbolArray": "null"
+                },
+                "el_id": "67b998ec-5144-487c-98be-8edf92b23b51",
+                "relatedTo": "",
+                "symbol": "",
+                "claimText": "Las PVIH que cambiaron a BIKTARVY reportaron mejoras en el sueño, la calidad de vida y el RS fMRI asociados con el sueño comparado con las que continuaron con regímenes basados en DTG",
+                "el_data_type": "Match Text",
+                "el_type": "Claim",
+                "moduleName": "CM-001987",
+                "border_box": "",
+                "randomKey": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "iconHtml": "<div class=\"icon-column col\"></div>",
+        "name": "",
+        "mobilePadding": {},
+        "mobileFontSize": {},
+        "id": "tui",
+        "isLocked": false,
+        "tagName": "mj-section",
+        "attributes": {
+          "css-class": "section_image_with_title",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "padding-right": "0px",
+          "padding-top": "0px"
+        },
+        "children": [
+          {
+            "tagName": "mj-column",
+            "attributes": {
+              "width": "70%",
+              "vertical-align": "middle"
+            },
+            "children": [
+              {
+                "icon": "text_fields",
+                "name": "builder.text",
+                "tagName": "mj-text",
+                "content": "<div>En <span style='color:#CF0A2C;'>2024</span>, unimos fuerzas para erradicar el <span style='color:#CF0A2C;'>SIDA</span>: <span style='color:#CF0A2C;'>prevención</span>, <span style='color:#CF0A2C;'>educación</span> y solidaridad para construir un futuro saludable, libre de discriminación y lleno de esperanza para todas las generaciones.\"</div>",
+                "elementName": "COMP-2774_title",
+                "el_data_type": "Image Title",
+                "el_type": "Text",
+                "moduleName": "CM-001987",
+                "attributes": {
+                  "content": "<div>En 2024, unimos fuerzas para erradicar el SIDA: prevención, educación y solidaridad para construir un futuro saludable, libre de discriminación y lleno de esperanza para todas las generaciones.\"</div>",
+                  "el_data_type": "Image Title",
+                  "el_type": "Text",
+                  "elementName": "COMP-2774_title",
+                  "moduleName": "CM-001987",
+                  "css-class": "image-title-text",
+                  "font-size": "12px",
+                  "line-height": "14px",
+                  "padding-bottom": "10px",
+                  "padding-left": "25px",
+                  "padding-right": "0px",
+                  "padding-top": "10px",
+                  "align": "left"
+                }
+              }
+            ]
+          },
+          {
+            "tagName": "mj-column",
+            "attributes": {
+              "width": "30%",
+              "vertical-align": "middle"
+            },
+            "children": [
+              {
+                "icon": "photo",
+                "name": "builder.image",
+                "tagName": "mj-image",
+                "elementName": "COMP-2774",
+                "mustUse": false,
+                "attributes": {
+                  "src": "https://d1t0wo1ho6nrgc.cloudfront.net/components/9917fae3-8cea-4c74-953f-d4b5a6026bad/fdcc9822-2df1-4ccb-a78a-e9e316550aa9/31510_1_0.png",
+                  "fluid-on-mobile": "true",
+                  "el_id": "fdcc9822-2df1-4ccb-a78a-e9e316550aa9",
+                  "el_data_type": "Image",
+                  "el_type": "Component",
+                  "elementName": "COMP-2774",
+                  "moduleName": "CM-001987",
+                  "approved": true,
+                  "css-class": "approved-image",
+                  "width": "150px",
+                  "align": "center",
+                  "padding-left": "0px",
+                  "padding-right": "20px",
+                  "padding-top": "5px",
+                  "padding-bottom": "5px",
+                  "mustUse": false
+                },
+                "el_id": "fdcc9822-2df1-4ccb-a78a-e9e316550aa9",
+                "el_data_type": "Image",
+                "el_type": "Component",
+                "moduleName": "CM-001987"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "iconHtml": "<div class=\"icon-column col\"></div>",
+        "name": "",
+        "mobilePadding": {},
+        "mobileFontSize": {},
+        "id": "xvb",
+        "isLocked": false,
+        "tagName": "mj-section",
+        "attributes": {
+          "css-class": "section_image",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "padding-right": "0px",
+          "padding-top": "0px"
+        },
+        "children": [
+          {
+            "tagName": "mj-column",
+            "attributes": {
+              "width": "100%"
+            },
+            "children": [
+              {
+                "icon": "photo",
+                "name": "builder.image",
+                "tagName": "mj-image",
+                "elementName": "COMP-2788",
+                "mustUse": true,
+                "attributes": {
+                  "src": "https://d1t0wo1ho6nrgc.cloudfront.net/components/f9d8e88b-2d2d-47a9-91f8-d0d3f23130ef/b60edf7b-bf10-4ebb-a8d8-d4d4ebdcc6ac/31731_1_0.png",
+                  "fluid-on-mobile": "true",
+                  "el_id": "b60edf7b-bf10-4ebb-a8d8-d4d4ebdcc6ac",
+                  "el_data_type": "Image",
+                  "el_type": "Component",
+                  "elementName": "COMP-2788",
+                  "moduleName": "CM-001987",
+                  "approved": true,
+                  "css-class": "approved-image",
+                  "mustUse": true
+                },
+                "el_id": "b60edf7b-bf10-4ebb-a8d8-d4d4ebdcc6ac",
+                "el_data_type": "Image",
+                "el_type": "Component",
+                "moduleName": "CM-001987"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tagName": "mj-block",
+    "attributes": {
+      "moduleName": "CM-001980",
+      "outline": "2px dashed #00c0f3",
+      "title": "CB Auto - CM-001980",
+      "width": "600px"
+    },
+    "moduleName": "CM-001980",
+    "children": [
+      {
+        "iconHtml": "<div class=\"icon-column col\"></div>",
+        "name": "",
+        "mobilePadding": {},
+        "mobileFontSize": {},
+        "id": "9yb",
+        "isLocked": false,
+        "tagName": "mj-section",
+        "attributes": {
+          "css-class": "section_claims",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "padding-right": "0px",
+          "padding-top": "0px"
+        },
+        "children": [
+          {
+            "tagName": "mj-column",
+            "attributes": {
+              "width": "100%",
+              "padding-bottom": "0px",
+              "padding-left": "0px",
+              "padding-right": "0px",
+              "padding-top": "0px",
+              "border": "none",
+              "border-radius": "none"
+            },
+            "children": [
+              {
+                "tagName": "mj-text",
+                "content": "<div>Las <span style='color:#CF0A2C;'>PVIH</span> tratadas con <span style='color:#CF0A2C;'>Biktarvy<sup>®</sup></span> reportaron mejorías en la <span style='color:#CF0A2C;'>calidad del sueño</span> vs. regímenes basados en <span style='color:#CF0A2C;'>DTG</span> en <span style='color:#CF0A2C;'>EECC</span> doble ciego<sup data-ref='true' id='CL-006089'>*,6</sup></div>",
+                "elementName": "CL-006089",
+                "referenceVal": ",6",
+                "moduleReferences": [
+                  {
+                    "mustUse": true,
+                    "id": "50d2dc6f-9bcb-482e-9b9c-d148cbac681e",
+                    "moduleId": "CM-001980",
+                    "value": "Bivegete S, et al. Estimates of hepatitis B virus prevalence among general population and key risk groups in EU/EEA/UK countries: a systematic review. Euro Surveill. 2023 Jul;28(30):2200738. doi: 10.2807/1560-7917.ES.2023.28.30.2200738.",
+                    "type": "Claim",
+                    "data_type": "Reference",
+                    "elementId": "CL-006089",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001980",
+                    "componentType": null,
+                    "sl_no": 6,
+                    "refValueExistId": [
+                      "CL-006089"
+                    ]
+                  }
+                ],
+                "moduleFootnotes": [
+                  {
+                    "mustUse": true,
+                    "id": "0f54bc6c-5eb1-45e2-a494-cfb6fa4da210-Análisis de resultados de los PROs recogidos en los ensayos clínicos de fase 3 con BIKTARVY vs. DTG/ABC/3TC. Los resultados mostrados parten del análisis de los resultados de los PROs del estudio 1489 (pacientes naïve) y del estudio 1844 (pacientes con supresión virológica).",
+                    "moduleId": "CM-001980",
+                    "value": "Análisis de resultados de los PROs recogidos en los ensayos clínicos de fase 3 con BIKTARVY vs. DTG/ABC/3TC. Los resultados mostrados parten del análisis de los resultados de los PROs del estudio 1489 (pacientes naïve) y del estudio 1844 (pacientes con supresión virológica).",
+                    "type": "Claim",
+                    "data_type": "Footnote",
+                    "elementId": "0f54bc6c-5eb1-45e2-a494-cfb6fa4da210",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001980",
+                    "componentType": null,
+                    "symbol": "*",
+                    "sl_no": 6
+                  }
+                ],
+                "moduleGlossary": [
+                  {
+                    "mustUse": true,
+                    "id": "V1X000000079001-3TC: lamivudina0",
+                    "moduleId": "CM-001980",
+                    "value": "3TC: lamivudina",
+                    "type": "Claim",
+                    "data_type": "Glossary",
+                    "elementId": "CL-006089",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001980",
+                    "componentType": null,
+                    "sl_no": 9
+                  },
+                  {
+                    "mustUse": true,
+                    "id": "V1X000000079001-ABC: abacavir1",
+                    "moduleId": "CM-001980",
+                    "value": "ABC: abacavir",
+                    "type": "Claim",
+                    "data_type": "Glossary",
+                    "elementId": "CL-006089",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001980",
+                    "componentType": null,
+                    "sl_no": 10
+                  },
+                  {
+                    "mustUse": true,
+                    "id": "V1X000000079001-DTG: dolutegravir2",
+                    "moduleId": "CM-001980",
+                    "value": "DTG: dolutegravir",
+                    "type": "Claim",
+                    "data_type": "Glossary",
+                    "elementId": "CL-006089",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001980",
+                    "componentType": null
+                  },
+                  {
+                    "mustUse": true,
+                    "id": "V1X000000079001-EECC: ensayos clínicos3",
+                    "moduleId": "CM-001980",
+                    "value": "EECC: ensayos clínicos",
+                    "type": "Claim",
+                    "data_type": "Glossary",
+                    "elementId": "CL-006089",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001980",
+                    "componentType": null,
+                    "sl_no": 11
+                  },
+                  {
+                    "mustUse": true,
+                    "id": "V1X000000079001-PROs: resultados reportados por los pacientes4",
+                    "moduleId": "CM-001980",
+                    "value": "PROs: resultados reportados por los pacientes",
+                    "type": "Claim",
+                    "data_type": "Glossary",
+                    "elementId": "CL-006089",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001980",
+                    "componentType": null,
+                    "sl_no": 12
+                  },
+                  {
+                    "mustUse": true,
+                    "id": "V1X000000079001-PVIH: personas con VIH5",
+                    "moduleId": "CM-001980",
+                    "value": "PVIH: personas con VIH",
+                    "type": "Claim",
+                    "data_type": "Glossary",
+                    "elementId": "CL-006089",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001980",
+                    "componentType": null
+                  },
+                  {
+                    "mustUse": true,
+                    "id": "V1X000000079001-VIH: virus de inmunodeficiencia humana.6",
+                    "moduleId": "CM-001980",
+                    "value": "VIH: virus de inmunodeficiencia humana.",
+                    "type": "Claim",
+                    "data_type": "Glossary",
+                    "elementId": "CL-006089",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001980",
+                    "componentType": null
+                  }
+                ],
+                "claimSymbol": "",
+                "mustUse": true,
+                "attributes": {
+                  "symbol": "*",
+                  "referenceVal": "6",
+                  "moduleReferences": "[{'mustUse':true,'id':'50d2dc6f-9bcb-482e-9b9c-d148cbac681e','moduleId':'CM-001980','value':'Bivegete S, et al. Estimates of hepatitis B virus prevalence among general population and key risk groups in EU/EEA/UK countries: a systematic review. Euro Surveill. 2023 Jul;28(30):2200738. doi: 10.2807/1560-7917.ES.2023.28.30.2200738.','type':'Claim','data_type':'Reference','elementId':'CL-006089','moduleType':'Parent','belongsTo':'CM-001980','componentType':null,'sl_no':6,'refValueExistId':['CL-006089']}]",
+                  "moduleFootnotes": "[{'mustUse':true,'id':'0f54bc6c-5eb1-45e2-a494-cfb6fa4da210-Análisis de resultados de los PROs recogidos en los ensayos clínicos de fase 3 con BIKTARVY vs. DTG/ABC/3TC. Los resultados mostrados parten del análisis de los resultados de los PROs del estudio 1489 (pacientes naïve) y del estudio 1844 (pacientes con supresión virológica).','moduleId':'CM-001980','value':'Análisis de resultados de los PROs recogidos en los ensayos clínicos de fase 3 con BIKTARVY vs. DTG/ABC/3TC. Los resultados mostrados parten del análisis de los resultados de los PROs del estudio 1489 (pacientes naïve) y del estudio 1844 (pacientes con supresión virológica).','type':'Claim','data_type':'Footnote','elementId':'0f54bc6c-5eb1-45e2-a494-cfb6fa4da210','moduleType':'Parent','belongsTo':'CM-001980','componentType':null,'symbol':'*','sl_no':6}]",
+                  "moduleGlossary": "[{'mustUse':true,'id':'V1X000000079001-3TC: lamivudina0','moduleId':'CM-001980','value':'3TC: lamivudina','type':'Claim','data_type':'Glossary','elementId':'CL-006089','moduleType':'Parent','belongsTo':'CM-001980','componentType':null,'sl_no':9},{'mustUse':true,'id':'V1X000000079001-ABC: abacavir1','moduleId':'CM-001980','value':'ABC: abacavir','type':'Claim','data_type':'Glossary','elementId':'CL-006089','moduleType':'Parent','belongsTo':'CM-001980','componentType':null,'sl_no':10},{'mustUse':true,'id':'V1X000000079001-DTG: dolutegravir2','moduleId':'CM-001980','value':'DTG: dolutegravir','type':'Claim','data_type':'Glossary','elementId':'CL-006089','moduleType':'Parent','belongsTo':'CM-001980','componentType':null},{'mustUse':true,'id':'V1X000000079001-EECC: ensayos clínicos3','moduleId':'CM-001980','value':'EECC: ensayos clínicos','type':'Claim','data_type':'Glossary','elementId':'CL-006089','moduleType':'Parent','belongsTo':'CM-001980','componentType':null,'sl_no':11},{'mustUse':true,'id':'V1X000000079001-PROs: resultados reportados por los pacientes4','moduleId':'CM-001980','value':'PROs: resultados reportados por los pacientes','type':'Claim','data_type':'Glossary','elementId':'CL-006089','moduleType':'Parent','belongsTo':'CM-001980','componentType':null,'sl_no':12},{'mustUse':true,'id':'V1X000000079001-PVIH: personas con VIH5','moduleId':'CM-001980','value':'PVIH: personas con VIH','type':'Claim','data_type':'Glossary','elementId':'CL-006089','moduleType':'Parent','belongsTo':'CM-001980','componentType':null},{'mustUse':true,'id':'V1X000000079001-VIH: virus de inmunodeficiencia humana.6','moduleId':'CM-001980','value':'VIH: virus de inmunodeficiencia humana.','type':'Claim','data_type':'Glossary','elementId':'CL-006089','moduleType':'Parent','belongsTo':'CM-001980','componentType':null}]",
+                  "claimSymbol": "",
+                  "mustUse": true,
+                  "claimText": "Las PVIH tratadas con BIKTARVY reportaron mejorías en la calidad del sueño vs. regímenes basados en DTG en EECC doble ciego",
+                  "moduleName": "CM-001980",
+                  "el_data_type": "Match Text",
+                  "el_id": "0f54bc6c-5eb1-45e2-a494-cfb6fa4da210",
+                  "approved": true,
+                  "elementName": "CL-006089",
+                  "el_type": "Claim",
+                  "font-size": "14px",
+                  "line-height": "17px",
+                  "padding-bottom": "20px",
+                  "padding-left": "25px",
+                  "padding-right": "25px",
+                  "padding-top": "5px",
+                  "color": "#c00000",
+                  "content": "<div>Las PVIH tratadas con BIKTARVY reportaron mejorías en la calidad del sueño vs. regímenes basados en DTG en EECC doble ciego<sup data-ref='true' id='CL-006089'>*,6</sup></div>",
+                  "footnoteSymbols": "*",
+                  "relatedTo": "",
+                  "isEdited": false,
+                  "align": "center",
+                  "font-weight": "700",
+                  "parentSymbolArray": "null"
+                },
+                "el_id": "0f54bc6c-5eb1-45e2-a494-cfb6fa4da210",
+                "relatedTo": "",
+                "symbol": "",
+                "claimText": "Las PVIH tratadas con BIKTARVY reportaron mejorías en la calidad del sueño vs. regímenes basados en DTG en EECC doble ciego",
+                "el_data_type": "Match Text",
+                "el_type": "Claim",
+                "moduleName": "CM-001980",
+                "border_box": "",
+                "randomKey": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "iconHtml": "<div class=\"icon-column col\"></div>",
+        "name": "",
+        "mobilePadding": {},
+        "mobileFontSize": {},
+        "id": "ohh",
+        "isLocked": false,
+        "tagName": "mj-section",
+        "attributes": {
+          "css-class": "section_claims",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "padding-right": "0px",
+          "padding-top": "0px"
+        },
+        "children": [
+          {
+            "tagName": "mj-column",
+            "attributes": {
+              "width": "100%",
+              "padding-bottom": "0px",
+              "padding-left": "0px",
+              "padding-right": "0px",
+              "padding-top": "0px",
+              "border": "none",
+              "border-radius": "none"
+            },
+            "children": [
+              {
+                "tagName": "mj-text",
+                "content": "<div>Prevalencia de síntomas molestos en <span style='color:#CF0A2C;'>PVIH</span> <span style='color:#CF0A2C;'>naïve</span> con <span style='color:#CF0A2C;'>Biktarvy<sup>®</sup></span> vs. <span style='color:#CF0A2C;'>DTG/ABC/3TC</span><sup data-ref='true' id='CL-006090'>7</sup></div>",
+                "elementName": "CL-006090",
+                "referenceVal": "7",
+                "moduleReferences": [
+                  {
+                    "mustUse": false,
+                    "id": "20e80906-c019-495c-a2d5-d48e5455c362",
+                    "moduleId": "CM-001980",
+                    "value": "&quot;Dieterich DT, et al. TDF and TAF in HBV/HIV co-infected individuals in the United States: monitoring practices and incidence of HBV reactivation of hepatitis flare. Poster presentado en el EASL Congress 2024.\n5-8 Junio. Milán, Italia.&quot;",
+                    "type": "Claim",
+                    "data_type": "Reference",
+                    "elementId": "CL-006090",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001980",
+                    "componentType": null,
+                    "sl_no": 7,
+                    "refValueExistId": [
+                      "CL-006090"
+                    ]
+                  }
+                ],
+                "moduleFootnotes": [],
+                "moduleGlossary": [
+                  {
+                    "mustUse": false,
+                    "id": "V1X000000079002-3TC: lamivudina0",
+                    "moduleId": "CM-001980",
+                    "value": "3TC: lamivudina",
+                    "type": "Claim",
+                    "data_type": "Glossary",
+                    "elementId": "CL-006090",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001980",
+                    "componentType": null
+                  },
+                  {
+                    "mustUse": false,
+                    "id": "V1X000000079002-ABC: abacavir1",
+                    "moduleId": "CM-001980",
+                    "value": "ABC: abacavir",
+                    "type": "Claim",
+                    "data_type": "Glossary",
+                    "elementId": "CL-006090",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001980",
+                    "componentType": null
+                  },
+                  {
+                    "mustUse": false,
+                    "id": "V1X000000079002-DTG: dolutegravir2",
+                    "moduleId": "CM-001980",
+                    "value": "DTG: dolutegravir",
+                    "type": "Claim",
+                    "data_type": "Glossary",
+                    "elementId": "CL-006090",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001980",
+                    "componentType": null
+                  },
+                  {
+                    "mustUse": false,
+                    "id": "V1X000000079002-PVIH: personas con VIH3",
+                    "moduleId": "CM-001980",
+                    "value": "PVIH: personas con VIH",
+                    "type": "Claim",
+                    "data_type": "Glossary",
+                    "elementId": "CL-006090",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001980",
+                    "componentType": null
+                  },
+                  {
+                    "mustUse": false,
+                    "id": "V1X000000079002-VIH: virus de inmunodeficiencia humana.4",
+                    "moduleId": "CM-001980",
+                    "value": "VIH: virus de inmunodeficiencia humana.",
+                    "type": "Claim",
+                    "data_type": "Glossary",
+                    "elementId": "CL-006090",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001980",
+                    "componentType": null
+                  }
+                ],
+                "claimSymbol": "",
+                "mustUse": false,
+                "attributes": {
+                  "symbol": "",
+                  "referenceVal": "7",
+                  "moduleReferences": "[{'mustUse':false,'id':'20e80906-c019-495c-a2d5-d48e5455c362','moduleId':'CM-001980','value':'&quot;Dieterich DT, et al. TDF and TAF in HBV/HIV co-infected individuals in the United States: monitoring practices and incidence of HBV reactivation of hepatitis flare. Poster presentado en el EASL Congress 2024.\\n5-8 Junio. Milán, Italia.&quot;','type':'Claim','data_type':'Reference','elementId':'CL-006090','moduleType':'Parent','belongsTo':'CM-001980','componentType':null,'sl_no':7,'refValueExistId':['CL-006090']}]",
+                  "moduleFootnotes": "[]",
+                  "moduleGlossary": "[{'mustUse':false,'id':'V1X000000079002-3TC: lamivudina0','moduleId':'CM-001980','value':'3TC: lamivudina','type':'Claim','data_type':'Glossary','elementId':'CL-006090','moduleType':'Parent','belongsTo':'CM-001980','componentType':null},{'mustUse':false,'id':'V1X000000079002-ABC: abacavir1','moduleId':'CM-001980','value':'ABC: abacavir','type':'Claim','data_type':'Glossary','elementId':'CL-006090','moduleType':'Parent','belongsTo':'CM-001980','componentType':null},{'mustUse':false,'id':'V1X000000079002-DTG: dolutegravir2','moduleId':'CM-001980','value':'DTG: dolutegravir','type':'Claim','data_type':'Glossary','elementId':'CL-006090','moduleType':'Parent','belongsTo':'CM-001980','componentType':null},{'mustUse':false,'id':'V1X000000079002-PVIH: personas con VIH3','moduleId':'CM-001980','value':'PVIH: personas con VIH','type':'Claim','data_type':'Glossary','elementId':'CL-006090','moduleType':'Parent','belongsTo':'CM-001980','componentType':null},{'mustUse':false,'id':'V1X000000079002-VIH: virus de inmunodeficiencia humana.4','moduleId':'CM-001980','value':'VIH: virus de inmunodeficiencia humana.','type':'Claim','data_type':'Glossary','elementId':'CL-006090','moduleType':'Parent','belongsTo':'CM-001980','componentType':null}]",
+                  "claimSymbol": "",
+                  "mustUse": false,
+                  "claimText": "Prevalencia de síntomas molestos en PVIH naïve con BIKTARVY vs. DTG/ABC/3TC",
+                  "moduleName": "CM-001980",
+                  "el_data_type": "Match Text",
+                  "el_id": "386cfb4a-4c57-4209-8213-493ceb0dfc1e",
+                  "approved": true,
+                  "elementName": "CL-006090",
+                  "el_type": "Claim",
+                  "font-size": "12px",
+                  "line-height": "14px",
+                  "padding-bottom": "5px",
+                  "padding-left": "25px",
+                  "padding-right": "25px",
+                  "padding-top": "5px",
+                  "color": "#000000",
+                  "content": "<div>Prevalencia de síntomas molestos en PVIH naïve con BIKTARVY vs. DTG/ABC/3TC<sup data-ref='true' id='CL-006090'>7</sup></div>",
+                  "footnoteSymbols": "",
+                  "relatedTo": "",
+                  "isEdited": false,
+                  "align": "left",
+                  "font-weight": "400",
+                  "parentSymbolArray": "null"
+                },
+                "el_id": "386cfb4a-4c57-4209-8213-493ceb0dfc1e",
+                "relatedTo": "",
+                "symbol": "",
+                "claimText": "Prevalencia de síntomas molestos en PVIH naïve con BIKTARVY vs. DTG/ABC/3TC",
+                "el_data_type": "Match Text",
+                "el_type": "Claim",
+                "moduleName": "CM-001980",
+                "border_box": "",
+                "randomKey": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "iconHtml": "<div class=\"icon-column col\"></div>",
+        "name": "",
+        "mobilePadding": {},
+        "mobileFontSize": {},
+        "id": "d3x",
+        "isLocked": false,
+        "tagName": "mj-section",
+        "attributes": {
+          "css-class": "section_claims",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "padding-right": "0px",
+          "padding-top": "0px"
+        },
+        "children": [
+          {
+            "tagName": "mj-column",
+            "attributes": {
+              "width": "100%",
+              "padding-bottom": "0px",
+              "padding-left": "0px",
+              "padding-right": "0px",
+              "padding-top": "0px",
+              "border": "none",
+              "border-radius": "none"
+            },
+            "children": [
+              {
+                "tagName": "mj-text",
+                "content": "<div>Prevalencia de síntomas molestos en <span style='color:#CF0A2C;'>PVIH</span> <span style='color:#CF0A2C;'>virológicamente suprimidas</span> con <span style='color:#CF0A2C;'>Biktarvy<sup>®</sup></span> vs. <span style='color:#CF0A2C;'>DTG/ABC/3TC</span><sup data-ref='true' id='CL-006107'>7</sup></div>",
+                "elementName": "CL-006107",
+                "referenceVal": "7",
+                "moduleReferences": [
+                  {
+                    "mustUse": false,
+                    "id": "187f9acc-0657-4bf1-bac9-b929f314b931",
+                    "moduleId": "CM-001980",
+                    "value": "&quot;Dieterich DT, et al. TDF and TAF in HBV/HIV co-infected individuals in the United States: monitoring practices and incidence of HBV reactivation of hepatitis flare. Poster presentado en el EASL Congress 2024.\n5-8 Junio. Milán, Italia.&quot;",
+                    "type": "Claim",
+                    "data_type": "Reference",
+                    "elementId": "CL-006107",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001980",
+                    "componentType": null
+                  }
+                ],
+                "moduleFootnotes": [],
+                "moduleGlossary": [
+                  {
+                    "mustUse": false,
+                    "id": "V1X000000079014-3TC: lamivudina0",
+                    "moduleId": "CM-001980",
+                    "value": "3TC: lamivudina",
+                    "type": "Claim",
+                    "data_type": "Glossary",
+                    "elementId": "CL-006107",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001980",
+                    "componentType": null
+                  },
+                  {
+                    "mustUse": false,
+                    "id": "V1X000000079014-ABC: abacavir1",
+                    "moduleId": "CM-001980",
+                    "value": "ABC: abacavir",
+                    "type": "Claim",
+                    "data_type": "Glossary",
+                    "elementId": "CL-006107",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001980",
+                    "componentType": null
+                  },
+                  {
+                    "mustUse": false,
+                    "id": "V1X000000079014-DTG: dolutegravir2",
+                    "moduleId": "CM-001980",
+                    "value": "DTG: dolutegravir",
+                    "type": "Claim",
+                    "data_type": "Glossary",
+                    "elementId": "CL-006107",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001980",
+                    "componentType": null
+                  },
+                  {
+                    "mustUse": false,
+                    "id": "V1X000000079014-PVIH: personas con VIH3",
+                    "moduleId": "CM-001980",
+                    "value": "PVIH: personas con VIH",
+                    "type": "Claim",
+                    "data_type": "Glossary",
+                    "elementId": "CL-006107",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001980",
+                    "componentType": null
+                  },
+                  {
+                    "mustUse": false,
+                    "id": "V1X000000079014-VIH: virus de inmunodeficiencia humana.4",
+                    "moduleId": "CM-001980",
+                    "value": "VIH: virus de inmunodeficiencia humana.",
+                    "type": "Claim",
+                    "data_type": "Glossary",
+                    "elementId": "CL-006107",
+                    "moduleType": "Parent",
+                    "belongsTo": "CM-001980",
+                    "componentType": null
+                  }
+                ],
+                "claimSymbol": "",
+                "mustUse": false,
+                "attributes": {
+                  "symbol": "",
+                  "referenceVal": "7",
+                  "moduleReferences": "[{'mustUse':false,'id':'187f9acc-0657-4bf1-bac9-b929f314b931','moduleId':'CM-001980','value':'&quot;Dieterich DT, et al. TDF and TAF in HBV/HIV co-infected individuals in the United States: monitoring practices and incidence of HBV reactivation of hepatitis flare. Poster presentado en el EASL Congress 2024.\\n5-8 Junio. Milán, Italia.&quot;','type':'Claim','data_type':'Reference','elementId':'CL-006107','moduleType':'Parent','belongsTo':'CM-001980','componentType':null}]",
+                  "moduleFootnotes": "[]",
+                  "moduleGlossary": "[{'mustUse':false,'id':'V1X000000079014-3TC: lamivudina0','moduleId':'CM-001980','value':'3TC: lamivudina','type':'Claim','data_type':'Glossary','elementId':'CL-006107','moduleType':'Parent','belongsTo':'CM-001980','componentType':null},{'mustUse':false,'id':'V1X000000079014-ABC: abacavir1','moduleId':'CM-001980','value':'ABC: abacavir','type':'Claim','data_type':'Glossary','elementId':'CL-006107','moduleType':'Parent','belongsTo':'CM-001980','componentType':null},{'mustUse':false,'id':'V1X000000079014-DTG: dolutegravir2','moduleId':'CM-001980','value':'DTG: dolutegravir','type':'Claim','data_type':'Glossary','elementId':'CL-006107','moduleType':'Parent','belongsTo':'CM-001980','componentType':null},{'mustUse':false,'id':'V1X000000079014-PVIH: personas con VIH3','moduleId':'CM-001980','value':'PVIH: personas con VIH','type':'Claim','data_type':'Glossary','elementId':'CL-006107','moduleType':'Parent','belongsTo':'CM-001980','componentType':null},{'mustUse':false,'id':'V1X000000079014-VIH: virus de inmunodeficiencia humana.4','moduleId':'CM-001980','value':'VIH: virus de inmunodeficiencia humana.','type':'Claim','data_type':'Glossary','elementId':'CL-006107','moduleType':'Parent','belongsTo':'CM-001980','componentType':null}]",
+                  "claimSymbol": "",
+                  "mustUse": false,
+                  "claimText": "Prevalencia de síntomas molestos en PVIH virológicamente suprimidas\ncon BIKTARVY vs. DTG/ABC/3TC",
+                  "moduleName": "CM-001980",
+                  "el_data_type": "Match Text",
+                  "el_id": "20f92bae-3b34-4ba9-8e86-88c59f9f7d02",
+                  "approved": true,
+                  "elementName": "CL-006107",
+                  "el_type": "Claim",
+                  "font-size": "12px",
+                  "line-height": "14px",
+                  "padding-bottom": "5px",
+                  "padding-left": "25px",
+                  "padding-right": "25px",
+                  "padding-top": "5px",
+                  "color": "#000000",
+                  "content": "<div>Prevalencia de síntomas molestos en PVIH virológicamente suprimidas\ncon BIKTARVY vs. DTG/ABC/3TC<sup data-ref='true' id='CL-006107'>7</sup></div>",
+                  "footnoteSymbols": "",
+                  "relatedTo": "",
+                  "isEdited": false,
+                  "align": "left",
+                  "font-weight": "400",
+                  "parentSymbolArray": "null"
+                },
+                "el_id": "20f92bae-3b34-4ba9-8e86-88c59f9f7d02",
+                "relatedTo": "",
+                "symbol": "",
+                "claimText": "Prevalencia de síntomas molestos en PVIH virológicamente suprimidas\ncon BIKTARVY vs. DTG/ABC/3TC",
+                "el_data_type": "Match Text",
+                "el_type": "Claim",
+                "moduleName": "CM-001980",
+                "border_box": "",
+                "randomKey": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "iconHtml": "<div class=\"icon-column col\"></div>",
+        "name": "",
+        "mobilePadding": {},
+        "mobileFontSize": {},
+        "id": "mc7",
+        "isLocked": false,
+        "tagName": "mj-section",
+        "attributes": {
+          "css-class": "section_image_with_title",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "padding-right": "0px",
+          "padding-top": "0px"
+        },
+        "children": [
+          {
+            "tagName": "mj-column",
+            "attributes": {
+              "width": "70%",
+              "vertical-align": "middle"
+            },
+            "children": [
+              {
+                "icon": "text_fields",
+                "name": "builder.text",
+                "tagName": "mj-text",
+                "content": "<div><span style='color:#CF0A2C;'>Estudio 1844</span> impulsa <span style='color:#CF0A2C;'>avances científicos</span> mediante <span style='color:#CF0A2C;'>investigación rigurosa</span>, innovación y compromiso, creando soluciones que mejoran la <span style='color:#CF0A2C;'>salud global</span> y transforman vidas con conocimiento y tecnología de vanguardia.</div>",
+                "elementName": "COMP-2775_title",
+                "el_data_type": "Image Title",
+                "el_type": "Text",
+                "moduleName": "CM-001980",
+                "attributes": {
+                  "content": "<div>Estudio 1844 impulsa avances científicos mediante investigación rigurosa, innovación y compromiso, creando soluciones que mejoran la salud global y transforman vidas con conocimiento y tecnología de vanguardia.</div>",
+                  "el_data_type": "Image Title",
+                  "el_type": "Text",
+                  "elementName": "COMP-2775_title",
+                  "moduleName": "CM-001980",
+                  "css-class": "image-title-text",
+                  "font-size": "12px",
+                  "line-height": "14px",
+                  "padding-bottom": "10px",
+                  "padding-left": "25px",
+                  "padding-right": "0px",
+                  "padding-top": "10px",
+                  "align": "left"
+                }
+              }
+            ]
+          },
+          {
+            "tagName": "mj-column",
+            "attributes": {
+              "width": "30%",
+              "vertical-align": "middle"
+            },
+            "children": [
+              {
+                "icon": "photo",
+                "name": "builder.image",
+                "tagName": "mj-image",
+                "elementName": "COMP-2775",
+                "mustUse": false,
+                "attributes": {
+                  "src": "https://d1t0wo1ho6nrgc.cloudfront.net/components/2ce1af7c-62a7-4376-9b17-6924d8239d0f/806265ef-1185-4b54-a90f-674b5aac73af/31415_1_0.png",
+                  "fluid-on-mobile": "true",
+                  "el_id": "806265ef-1185-4b54-a90f-674b5aac73af",
+                  "el_data_type": "Image",
+                  "el_type": "Component",
+                  "elementName": "COMP-2775",
+                  "moduleName": "CM-001980",
+                  "approved": true,
+                  "css-class": "approved-image",
+                  "width": "150px",
+                  "align": "center",
+                  "padding-left": "0px",
+                  "padding-right": "20px",
+                  "padding-top": "5px",
+                  "padding-bottom": "5px",
+                  "mustUse": false
+                },
+                "el_id": "806265ef-1185-4b54-a90f-674b5aac73af",
+                "el_data_type": "Image",
+                "el_type": "Component",
+                "moduleName": "CM-001980"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "iconHtml": "<div class=\"icon-column col\"></div>",
+        "name": "",
+        "mobilePadding": {},
+        "mobileFontSize": {},
+        "id": "kxn",
+        "isLocked": false,
+        "tagName": "mj-section",
+        "attributes": {
+          "css-class": "section_image",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "padding-right": "0px",
+          "padding-top": "0px"
+        },
+        "children": [
+          {
+            "tagName": "mj-column",
+            "attributes": {
+              "width": "100%"
+            },
+            "children": [
+              {
+                "icon": "photo",
+                "name": "builder.image",
+                "tagName": "mj-image",
+                "elementName": "COMP-2644",
+                "mustUse": true,
+                "attributes": {
+                  "src": "https://d1t0wo1ho6nrgc.cloudfront.net/components/7e3816c0-9676-43d7-af44-b89ef8597d27/8c62e81a-83cc-4af0-be81-cee170058e00/28805_1_0.png",
+                  "fluid-on-mobile": "true",
+                  "el_id": "8c62e81a-83cc-4af0-be81-cee170058e00",
+                  "el_data_type": "Image",
+                  "el_type": "Component",
+                  "elementName": "COMP-2644",
+                  "moduleName": "CM-001980",
+                  "approved": true,
+                  "css-class": "approved-image",
+                  "mustUse": true
+                },
+                "el_id": "8c62e81a-83cc-4af0-be81-cee170058e00",
+                "el_data_type": "Image",
+                "el_type": "Component",
+                "moduleName": "CM-001980"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "iconHtml": "<div class=\"icon-column col\"></div>",
+        "name": "",
+        "mobilePadding": {},
+        "mobileFontSize": {},
+        "id": "bpl",
+        "isLocked": false,
+        "tagName": "mj-section",
+        "attributes": {
+          "css-class": "section_image",
+          "padding-bottom": "0px",
+          "padding-left": "0px",
+          "padding-right": "0px",
+          "padding-top": "0px"
+        },
+        "children": [
+          {
+            "tagName": "mj-column",
+            "attributes": {
+              "width": "100%"
+            },
+            "children": [
+              {
+                "icon": "photo",
+                "name": "builder.image",
+                "tagName": "mj-image",
+                "elementName": "COMP-2645",
+                "mustUse": true,
+                "attributes": {
+                  "src": "https://d1t0wo1ho6nrgc.cloudfront.net/components/7e3816c0-9676-43d7-af44-b89ef8597d27/4c75936f-111a-47fa-a146-dcfca5ce4b34/28902_1_0.png",
+                  "fluid-on-mobile": "true",
+                  "el_id": "4c75936f-111a-47fa-a146-dcfca5ce4b34",
+                  "el_data_type": "Image",
+                  "el_type": "Component",
+                  "elementName": "COMP-2645",
+                  "moduleName": "CM-001980",
+                  "approved": true,
+                  "css-class": "approved-image",
+                  "mustUse": true
+                },
+                "el_id": "4c75936f-111a-47fa-a146-dcfca5ce4b34",
+                "el_data_type": "Image",
+                "el_type": "Component",
+                "moduleName": "CM-001980"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "iconHtml": "<div class=\"icon-column col\"></div>",
+        "tagName": "mj-section",
+        "name": "button",
+        "mobilePadding": {},
+        "mobileFontSize": {},
+        "id": "f3j",
+        "isLocked": false,
+        "attributes": {},
+        "children": [
+          {
+            "tagName": "mj-column",
+            "attributes": {
+              "width": "100%"
+            },
+            "id": "geg",
+            "children": [
+              {
+                "icon": "link",
+                "name": "builder.button",
+                "tagName": "mj-button",
+                "content": "Learn moare",
+                "attributes": {
+                  "padding-top": "10px",
+                  "padding-bottom": "30px",
+                  "padding-left": "24px",
+                  "padding-right": "24px",
+                  "color": "#ffffff",
+                  "css-class": "element_b8emw",
+                  "approved": false,
+                  "background-color": "#CF0A2C",
+                  "href": "https://www.test.com"
+                },
+                "uniqueClass": "element_b8emw",
+                "mobilePadding": {
+                  "padding-top": "0px",
+                  "padding-right": "0px",
+                  "padding-bottom": "0px",
+                  "padding-left": "0px"
+                },
+                "mobileAlign": {
+                  "align": "center"
+                },
+                "mobileFontSize": {
+                  "font-size": "13px"
+                },
+                "columnIndex": 0,
+                "sectionIndex": 0,
+                "id": "lfa"
+              }
+            ],
+            "mobilePadding": {},
+            "mobileFontSize": {}
+          }
+        ]
+      }
+    ]
+  }
+],
+  "attributes": {}
+}

@@ -1,0 +1,63 @@
+{
+  "componentReplacements": [
+    {
+      "phrase": "bictegravir 50mg",
+      "wrap": "<span style='color:#939598;'>$&</span>"
+    },
+    {
+      "phrase": "emtricitabine 200mg",
+      "wrap": "<span style='color:#939598;'>$&</span>"
+    },
+    {
+      "phrase": "tenofovir alafenamide 25mg",
+      "wrap": "<span style='color:#939598;'>$&</span>"
+    }
+  ],
+   "factualScientificClaims": [
+    "through Week 144",
+    "Estudio de cohorte (N=41)",
+    "mean reduction of 2.3 log10 copies/mL",
+    "superior efficacy"
+  ],
+   "clinicalScientificDataHighlight": [
+    ["viral suppression", "resistance rates", "ORR", "PFS", "OS"],
+    ["adverse events (AEs)", "discontinuations", "tolerability"],
+    ["Phase III", "NCT numbers", "study acronyms"],
+    ["adult", "treatment-naïve", "virologically suppressed"]
+  ],
+  "nameEntitiesHighlights": {
+    "People": ["Dr. [Name]", "specialists", "KOLs", "medical experts"],
+    "Organizations": ["Gilead", "EMA", "WHO", "local health agencies"],
+    "Places": ["Spain", "EU region", "country names", "geographic references"],
+    "Products/Projects": ["${requestedBrandEscapedForPrompt}","Bicstar", "study acronyms", "clinical program names"]
+  },
+  "stackeholderSpecificNouns":{
+    "HCP roles":["physician","pharmacist","nurse","specialist"],
+    "Institutions":["hospital","clinic","research center"],
+    "Patient groups":["adult","pediatric","newly diagnosed","suppressed"]
+  },
+  "regulatoryComplianceMarkers":{
+    "Fair balance cues":["benefit-risk statements","balanced wording"],
+    "Safety information":["ISI","contraindications","warnings","precautions"],
+    "References":["superscript citations linking to Bibliografía"],
+    "Mandatory text":["Consulte la información de prescripción completa"]
+  },
+  "numberUnitsClinicalStatical":{
+    "Percentages":["%","response rates","adherence","efficacy outcomes"],
+    "Dosage & administration":["mg","mL","once daily","BID","QD"],
+    "Durations":["weeks","months","years"],
+    "Statistical values":["p-value","CI","HR","median"],
+    "Quantities":["tablet count","vial volume","patient number (n=)"]
+  },
+  "strictRules":[
+    "Matching is case-insensitive but must use the exact casing and markup specified above.",
+    "Only match whole phrases; do not match partial substrings.",
+    "Preserve ALL existing HTML tags and attributes, and do NOT inject or remove tags other than the specified wrappers.",
+    "ALWAYS preserve <sup> tags around ® and ™ symbols. These tags are required for brand name symbols.",
+    "Avoid nested identical wrappers (no <b><b>…</b></b>${isBackgroundHighlight ? '' : ', no duplicate <span style='color:#CF0A2C;'> wrappers around the same text'}). If text already contains the exact intended wrapper, do not re-wrap.",
+    "Preserve original language, wording, punctuation, and whitespace. Do NOT translate, summarize, or alter meaning.",
+    "Apply replacements globally and independently; multiple rules may apply to the same text but do not create duplicate or nested identical tags.",
+    "Do not alter bracketed references, citations, or URLs.",
+    "${isBackgroundHighlight ? '• CRITICAL: DO NOT use any <span style='color:#CF0A2C;'> or <span style='color:#939598;'> tags. NO COLOR STYLING ALLOWED.' : '• When a rule requires both bold and color for overlapping content, avoid nesting identical tags: prefer <b> for numeric/factual emphasis and <span style='color:#CF0A2C;'> for clinical keywords — choose the combination that preserves clarity and avoids duplicate wrappers (e.g., wrap keywords in span and numeric percentage in bold as separate non-nested wrappers).'}"
+  ] 
+}

@@ -1,0 +1,199 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all color="#000000" font-family="Arial"></mj-all>
+    </mj-attributes>
+    <mj-style id="id_01">
+      a:-webkit-any-link {
+          cursor: auto;
+        }
+        img+div {
+          display: none;
+        }
+        img.g-img+div {
+          display: none;
+        }
+        u {
+          text-decoration: underline!important;
+        }
+        .blueLink {
+          color: blue !important;
+          text-decoration: underline !important;
+        }
+        h1, h2, h3, h4, h5, h6 { margin:0; }
+        table, td { border-collapse: inherit; }
+        li {text-align:-webkit-match-parent; display:list-item;}
+      	ul li {
+      		margin-left: 0px !important;
+      	}
+        ol li {
+      	  margin-left: 0px !important;
+      	}
+        ul li span, ol li span {
+          display: inline !important;
+        }
+        .hideOnDesktop, .hideOnDesktop table, .hideOnDesktop p {
+          display: none;
+          mso-hide: all !important;
+        }
+        .hideOnDesktop-outlook, .hideOnDesktop-outlook table, .hideOnDesktop-outlook p {
+            display: none !important;
+            mso-hide: all !important;
+        }
+        @media (max-width:480px) {
+          .hideOnMobile {
+            display: none !important;
+          }
+          .hideOnDesktop, .hideOnDesktop p {
+            display: block !important;
+          }
+          .hideOnDesktop table {
+            display: table !important
+          }
+          .hideOnDesktop-outlook, .hideOnDesktop-outlook p{
+            display: block !important;
+          }
+			    .hideOnDesktop-outlook table {
+            display: table-cell !important;
+          }
+          .mobileResponsive {
+            display: inline-block !important;
+            width: 100% !important;
+          }
+        }
+    </mj-style>
+    <mj-style id="sub">
+      sub{
+                  line-height: 0;
+                  font-size: 8px;
+                  vertical-align: -4px;
+              }
+              sub > font
+                {
+                  font-size: 8px;
+                  display: inherit;
+                }
+    </mj-style>
+    <mj-raw>
+      <!--[if gte mso 9]>
+                    <style>
+                      li {
+                        text-indent: -1em;
+                      }
+                    </style>
+                  <![endif]-->
+    </mj-raw>
+    <mj-style id="padDeskMob">
+      @media (max-width:480px) {
+    .element_5j8cg {
+        padding: undefined undefined undefined undefined !important
+    }
+    .element_4e7oi {
+        padding: 10px 25px 10px 25px !important
+    }
+}
+    </mj-style>
+    <mj-style id="sup">
+                    sup{
+                  line-height: 0;
+                  font-size: 8px;
+                  vertical-align: 4px;
+              }
+              sup > font
+                {
+                  font-size: 8px;
+                  display: inherit;
+                }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#ffffff" width="600px">
+    <mj-wrapper padding-bottom="20px" padding-left="0px" padding-right="0px" padding-top="20px">
+      <mj-section>
+        <mj-column width="100%">
+          <mj-text font-size="13px" line-height="15px">
+            <div>{{insertEmailFragments[x,x]}}</div>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+     
+        <mj-section border="5px solid transparent" css-class="section_combined_content" padding-bottom="10px" padding-left="0px" padding-right="0px" padding-top="10px">
+          <mj-column width="50%">
+            <mj-text approved="true" claimSymbol="" claimText="BIKTARVY is a complete, 1-pill, once-a-day prescription medicine used to treat HIV-1 in adults and children who weigh at least 31 pounds." content="<div>BIKTARVY is a complete, 1-pill, once-a-day prescription medicine used to treat HIV-1 in adults and children who weigh at least 31 pounds.<sup>§, #, @, $,1,2</sup></div>" el_data_type="Match Text" el_id="8c4a02bb-a9f0-498a-9394-de379165ad5c" el_type="Claim" elementName="CL-004792" font-size="13px" footnoteSymbols="§, #" line-height="18px" moduleFootnotes="[{'mustUse':true,'id':'8c4a02bb-a9f0-498a-9394-de379165ad5c-A retrospective analysis evaluated treatment adherence and its effect on virologic outcomes in double-blind, placebo-controlled clinical studies in treatment-naïve (1489, 1490, 4458) or virologically suppressed (1844 and 4030) participants. Participants with ≥1 returned pill bottle and ≥1 on-treatment HIV-1 RNA measurement were included in the analysis. Adherence was measured by the number of pills taken divided by the number of pills prescribed. Assessment was limited to returned pill bottles.','moduleId':'CM-001555','value':'A retrospective analysis evaluated treatment adherence and its effect on virologic outcomes in double-blind, placebo-controlled clinical studies in treatment-naïve (1489, 1490, 4458) or virologically suppressed (1844 and 4030) participants. Participants with ≥1 returned pill bottle and ≥1 on-treatment HIV-1 RNA measurement were included in the analysis. Adherence was measured by the number of pills taken divided by the number of pills prescribed. Assessment was limited to returned pill bottles.','type':'Claim','data_type':'Footnote','elementId':'8c4a02bb-a9f0-498a-9394-de379165ad5c','moduleType':'Parent','belongsTo':'CM-001555','componentType':null,'symbol':'§','sl_no':1},{'mustUse':true,'id':'8c4a02bb-a9f0-498a-9394-de379165ad5c-At Week 48 in pooled data from treatment-naïve participants: efficacy was 91% for BIKTARVY® (pooled [n=634]) vs 93% (ABC/3TC/DTG [n=315]) in Study 1489 (95% CI: -2.1 [-5.9 to 1.6]) and 93% (FTC/TAF + DTG [n=325]) in Study 1490 (95% CI: -1.9 [-5.6 to 1.8])=634]) vs 93% (ABC/3TC/DTG [n=315]).','moduleId':'CM-001555','value':'At Week 48 in pooled data from treatment-naïve participants: efficacy was 91% for BIKTARVY® (pooled [n=634]) vs 93% (ABC/3TC/DTG [n=315]) in Study 1489 (95% CI: -2.1 [-5.9 to 1.6]) and 93% (FTC/TAF + DTG [n=325]) in Study 1490 (95% CI: -1.9 [-5.6 to 1.8])=634]) vs 93% (ABC/3TC/DTG [n=315]).','type':'Claim','data_type':'Footnote','elementId':'8c4a02bb-a9f0-498a-9394-de379165ad5c','moduleType':'Parent','belongsTo':'CM-001555','componentType':null,'symbol':'#','sl_no':2}]" moduleGlossary="[{'mustUse':true,'id':'V1X00000005J020-P=E, passing=excluded0','moduleId':'CM-001555','value':'P=E, passing=excluded','type':'Claim','data_type':'Glossary','elementId':'CL-004792','moduleType':'Parent','belongsTo':'CM-001555','componentType':null,'sl_no':1}]" moduleName="CM-001555" moduleReferences="[{'mustUse':true,'id':'5ae3b4ef-1aaf-4a47-bebd-0a27fb141d90','moduleId':'CM-001555','value':'Veeva Test Document','type':'Claim','data_type':'Reference','elementId':'CL-004792','moduleType':'Parent','belongsTo':'CM-001555','componentType':null,'sl_no':1,'refValueExistId':['CL-004792']},{'mustUse':true,'id':'ac1ba7ab-426a-4ee7-82bd-fb962d4a6f37','moduleId':'CM-001555','value':'test','type':'Claim','data_type':'Reference','elementId':'CL-004792','moduleType':'Parent','belongsTo':'CM-001555','componentType':null,'sl_no':2,'refValueExistId':['CL-004792']}]" mustUse="true" padding-bottom="10px" padding-left="25px" padding-right="25px" padding-top="10px" parentSymbolArray="[{'claimName':'CL-004789','matchText':'DESCOVY (FTC/TAF*) is a dual-NRTI that can be used as a backbone in 3 DHHS-recommended initial regimens for most people with HIV','text':'DESCOVY (FTC/TAF*) is a dual-NRTI that can be used as a backbone in 3 DHHS-recommended initial regimens for most people with HIV','symbol':'@'},{'claimName':'CL-004788','matchText':'BIKTARVY is a three-drug combination of bictegravir (BIC), a human immunodeficiency virus type 1 (HIV-1) integrase strand transfer inhibitor (INSTI)','text':'BIKTARVY is a three-drug combination of bictegravir (BIC), a human immunodeficiency virus type 1 (HIV-1) integrase strand transfer inhibitor (INSTI)','symbol':'$'}]" referenceVal=",1,2" symbol="§, #">
+              <div><span style='color:#CF0A2C;'>BIKTARVY®</span> is a complete, 1-pill, once-a-day prescription medicine used to treat HIV-1 in adults and children who weigh at least 31 pounds.<sup>§, #, @, $,1,2</sup></div>
+            </mj-text>
+          </mj-column>
+          <mj-column width="50%">
+            <mj-text approved="true" claimSymbol="@" claimText="DESCOVY (FTC/TAF*) is a dual-NRTI that can be used as a backbone in 3 DHHS-recommended initial regimens for most people with HIV" content="<sup>@</sup><div>DESCOVY (FTC/TAF*) is a dual-NRTI that can be used as a backbone in 3 DHHS-recommended initial regimens for most people with HIV<sup>€, †,3,4</sup></div>" el_data_type="Match Text" el_id="6133904f-b43e-4434-8f8e-558995db68d8" el_type="Claim" elementName="CL-004789" font-size="13px" footnoteSymbols="€, †" line-height="18px" moduleFootnotes="[{'mustUse':false,'id':'6133904f-b43e-4434-8f8e-558995db68d8-DTG + 2 NRTI regimens included: Study 1489, ABC/3TC/DTG (n=314) and Study 1490, DTG + FTC/TAF (n=323).','moduleId':'CM-001555','value':'DTG + 2 NRTI regimens included: Study 1489, ABC/3TC/DTG (n=314) and Study 1490, DTG + FTC/TAF (n=323).','type':'Claim','data_type':'Footnote','elementId':'CL-004789','moduleType':'Parent','belongsTo':'CM-001555','componentType':null,'symbol':'€','sl_no':3},{'mustUse':false,'id':'6133904f-b43e-4434-8f8e-558995db68d8-Efficacy defined as HIV-1 RNA <50 copies/mL.','moduleId':'CM-001555','value':'Efficacy defined as HIV-1 RNA <50 copies/mL.','type':'Claim','data_type':'Footnote','elementId':'CL-004789','moduleType':'Parent','belongsTo':'CM-001555','componentType':null,'symbol':'†','sl_no':4}]" moduleGlossary="[{'mustUse':true,'id':'V1X00000005K021-M=E, missing=excluded0','moduleId':'CM-001555','value':'M=E, missing=excluded','type':'Claim','data_type':'Glossary','elementId':'CL-004789','moduleType':'Parent','belongsTo':'CM-001555','componentType':null,'sl_no':2}]" moduleName="CM-001555" moduleReferences="[{'mustUse':false,'id':'20eb1e13-614d-4fb4-bd2b-8084b843bd63','moduleId':'CM-001555','value':'Test citation for eda to module','type':'Claim','data_type':'Reference','elementId':'CL-004789','moduleType':'Parent','belongsTo':'CM-001555','componentType':null,'sl_no':3,'refValueExistId':['CL-004789']},{'mustUse':false,'id':'63d03a16-2ccf-4b65-81bf-990f8ae1ba80','moduleId':'CM-001555','value':'DOF-test-test--1200','type':'Claim','data_type':'Reference','elementId':'CL-004789','moduleType':'Parent','belongsTo':'CM-001555','componentType':null,'sl_no':4,'refValueExistId':['CL-004789']}]" mustUse="true" padding-bottom="10px" padding-left="25px" padding-right="25px" padding-top="10px" referenceVal=",3,4" symbol="€, †">
+              <sup>@</sup><div><span style='color:#CF0A2C;'>Biktarvy®</span> (FTC/TAF*) is a dual-NRTI that can be used as a backbone in 3 DHHS-recommended initial regimens for most people with HIV<sup>€, †,3,4</sup></div>
+            </mj-text>
+            <mj-text approved="true" claimSymbol="$" claimText="BIKTARVY is a three-drug combination of bictegravir (BIC), a human immunodeficiency virus type 1 (HIV-1) integrase strand transfer inhibitor (INSTI)" content="<sup>$</sup><div>BIKTARVY is a three-drug combination of bictegravir (BIC), a human immunodeficiency virus type 1 (HIV-1) integrase strand transfer inhibitor (INSTI)<sup>*, †,4,5</sup></div>" el_data_type="Match Text" el_id="b505e6a5-f62a-4718-a4fe-4d88c5b5c5b2" el_type="Claim" elementName="CL-004788" font-size="13px" footnoteSymbols="*, †" line-height="18px" moduleFootnotes="[{'mustUse':false,'id':'b505e6a5-f62a-4718-a4fe-4d88c5b5c5b2-At Week 48 in pooled data from treatment-naïve participants: efficacy was 91% for BIKTARVY® (pooled [n=634]) vs 93% (ABC/3TC/DTG [n=315]) in Study 1489 (95% CI: -2.1 [-5.9 to 1.6]) and 93% (FTC/TAF + DTG [n=325]) in Study 1490 (95% CI: -1.9 [-5.6 to 1.8]).','moduleId':'CM-001555','value':'At Week 48 in pooled data from treatment-naïve participants: efficacy was 91% for BIKTARVY® (pooled [n=634]) vs 93% (ABC/3TC/DTG [n=315]) in Study 1489 (95% CI: -2.1 [-5.9 to 1.6]) and 93% (FTC/TAF + DTG [n=325]) in Study 1490 (95% CI: -1.9 [-5.6 to 1.8]).','type':'Claim','data_type':'Footnote','elementId':'CL-004788','moduleType':'Parent','belongsTo':'CM-001555','componentType':null,'symbol':'*','sl_no':5},{'mustUse':false,'id':'b505e6a5-f62a-4718-a4fe-4d88c5b5c5b2-Efficacy defined as HIV-1 RNA <50 copies/mL.','moduleId':'CM-001555','value':'Efficacy defined as HIV-1 RNA <50 copies/mL.','type':'Claim','data_type':'Footnote','elementId':'CL-004788','moduleType':'Parent','belongsTo':'CM-001555','componentType':null,'symbol':'†'}]" moduleGlossary="[{'mustUse':true,'id':'V1X00000005K020-I=E, included=excluded0','moduleId':'CM-001555','value':'I=E, included=excluded','type':'Claim','data_type':'Glossary','elementId':'CL-004788','moduleType':'Parent','belongsTo':'CM-001555','componentType':null,'sl_no':3}]" moduleName="CM-001555" moduleReferences="[{'mustUse':false,'id':'43982c24-8939-4f9d-ae33-9a1f49f11cbe','moduleId':'CM-001555','value':'Phan-V-1995','type':'Claim','data_type':'Reference','elementId':'CL-004788','moduleType':'Parent','belongsTo':'CM-001555','componentType':null,'sl_no':5,'refValueExistId':['CL-004788']},{'mustUse':false,'id':'5c060295-9fc4-4f73-a7aa-b0316395e9fa','moduleId':'CM-001555','value':'DOF-test-test--1200','type':'Claim','data_type':'Reference','elementId':'CL-004788','moduleType':'Parent','belongsTo':'CM-001555','componentType':null}]" mustUse="true" padding-bottom="10px" padding-left="25px" padding-right="25px" padding-top="10px" referenceVal=",4,5" symbol="*, †">
+              <sup>$</sup><div><span style='color:#CF0A2C;'>BIKTARVY®</span> is a three-drug combination of <span style='color:#939598;'>bictegravir 50mg</span> (BIC), a human immunodeficiency virus type 1 (HIV-1) integrase strand transfer inhibitor (INSTI)<sup>*, †,4,5</sup></div>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+        <mj-section border="5px solid transparent" css-class="section_claims" padding-bottom="10px" padding-left="0px" padding-right="0px" padding-top="10px">
+          <mj-column width="100%">
+            <mj-text approved="true" claimSymbol="" claimText="Including those with no prior treatment, some treatment-experienced individuals, and those replacing their current regimen." content="<div>Including those with no prior treatment, some treatment-experienced individuals, and those replacing their current regimen.<sup>*, €, @, $,6,7</sup></div>" el_data_type="Match Text" el_id="b922d90b-c14e-4a0f-a44a-a320b138294a" el_type="Claim" elementName="CL-004787" font-size="13px" footnoteSymbols="*, €" line-height="18px" moduleFootnotes="[{'mustUse':true,'id':'b922d90b-c14e-4a0f-a44a-a320b138294a-At Week 48 in pooled data from treatment-naïve participants: efficacy was 91% for BIKTARVY® (pooled [n=634]) vs 93% (ABC/3TC/DTG [n=315]) in Study 1489 (95% CI: -2.1 [-5.9 to 1.6]) and 93% (FTC/TAF + DTG [n=325]) in Study 1490 (95% CI: -1.9 [-5.6 to 1.8]).','moduleId':'CM-001555','value':'At Week 48 in pooled data from treatment-naïve participants: efficacy was 91% for BIKTARVY® (pooled [n=634]) vs 93% (ABC/3TC/DTG [n=315]) in Study 1489 (95% CI: -2.1 [-5.9 to 1.6]) and 93% (FTC/TAF + DTG [n=325]) in Study 1490 (95% CI: -1.9 [-5.6 to 1.8]).','type':'Claim','data_type':'Footnote','elementId':'b922d90b-c14e-4a0f-a44a-a320b138294a','moduleType':'Parent','belongsTo':'CM-001555','componentType':null,'symbol':'*'},{'mustUse':true,'id':'b922d90b-c14e-4a0f-a44a-a320b138294a-DTG + 2 NRTI regimens included: Study 1489, ABC/3TC/DTG (n=314) and Study 1490, DTG + FTC/TAF (n=323).','moduleId':'CM-001555','value':'DTG + 2 NRTI regimens included: Study 1489, ABC/3TC/DTG (n=314) and Study 1490, DTG + FTC/TAF (n=323).','type':'Claim','data_type':'Footnote','elementId':'b922d90b-c14e-4a0f-a44a-a320b138294a','moduleType':'Parent','belongsTo':'CM-001555','componentType':null,'symbol':'€'}]" moduleGlossary="[{'mustUse':true,'id':'V1X00000005K019-M=E, missing=excluded0','moduleId':'CM-001555','value':'M=E, missing=excluded','type':'Claim','data_type':'Glossary','elementId':'CL-004787','moduleType':'Parent','belongsTo':'CM-001555','componentType':null}]" moduleName="CM-001555" moduleReferences="[{'mustUse':true,'id':'7ca385b4-cd24-4853-a92c-4caed2044d59','moduleId':'CM-001555','value':'gghhjkkk','type':'Claim','data_type':'Reference','elementId':'CL-004787','moduleType':'Parent','belongsTo':'CM-001555','componentType':null,'sl_no':6,'refValueExistId':['CL-004787']},{'mustUse':true,'id':'c8e58dbb-7efa-497b-be65-394c95d48c68','moduleId':'CM-001555','value':'Data on file. Gilead Sciences, Inc.','type':'Claim','data_type':'Reference','elementId':'CL-004787','moduleType':'Parent','belongsTo':'CM-001555','componentType':null,'sl_no':7,'refValueExistId':['CL-004787']}]" mustUse="true" padding-bottom="10px" padding-left="25px" padding-right="25px" padding-top="10px" parentSymbolArray="[{'claimName':'CL-004789','matchText':'DESCOVY (FTC/TAF*) is a dual-NRTI that can be used as a backbone in 3 DHHS-recommended initial regimens for most people with HIV','text':'DESCOVY (FTC/TAF*) is a dual-NRTI that can be used as a backbone in 3 DHHS-recommended initial regimens for most people with HIV','symbol':'@'},{'claimName':'CL-004788','matchText':'BIKTARVY is a three-drug combination of bictegravir (BIC), a human immunodeficiency virus type 1 (HIV-1) integrase strand transfer inhibitor (INSTI)','text':'BIKTARVY is a three-drug combination of bictegravir (BIC), a human immunodeficiency virus type 1 (HIV-1) integrase strand transfer inhibitor (INSTI)','symbol':'$'}]" referenceVal=",6,7" symbol="*, €">
+              <div>Including those with no prior treatment, some treatment-experienced individuals, and those replacing their current regimen.<sup>*, €, @, $,6,7</sup></div>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+        <mj-section border="5px solid transparent" css-class="section_reusable_texts" padding-bottom="10px" padding-left="0px" padding-right="0px" padding-top="10px">
+          <mj-column width="100%">
+            <mj-text approved="true" claimSymbol="" claimText="BIKTARVY is a complete, 1-pill, once-a-day prescription medicine used to treat HIV-1 in adults" el_data_type="Match Text" el_id="f82beb0c-74fb-481f-9668-0f6822316cd2" elementName="RT-001128" font-size="13px" line-height="18px" moduleFootnotes="[]" moduleGlossary="[]" moduleName="CM-001555" moduleReferences="[]" mustUse="true" padding-bottom="10px" padding-left="25px" padding-right="25px" padding-top="10px" referenceVal="" symbol="">
+              <div><span style='color:#CF0A2C;'>BIKTARVY®</span> is a complete, 1-pill, once-a-day prescription medicine used to treat HIV-1 in adults</div>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+        <mj-section border="5px solid transparent" css-class="section_reusable_texts" padding-bottom="10px" padding-left="0px" padding-right="0px" padding-top="10px">
+          <mj-column width="100%">
+            <mj-text approved="true" claimSymbol="" claimText="Bictegravir sodium/emtricitabine/tenofovir alafenamide fumarate can be takenat least 2 hr before or 6 hr after taking a medication containing magnesium." el_data_type="Match Text" el_id="911ac38a-d488-43cd-8230-6a5958ef39ec" elementName="RT-001129" font-size="13px" line-height="18px" moduleFootnotes="[]" moduleGlossary="[]" moduleName="CM-001555" moduleReferences="[]" mustUse="true" padding-bottom="10px" padding-left="25px" padding-right="25px" padding-top="10px" referenceVal="" symbol="">
+              <div><span style='color:#939598;'>bictegravir 50mg</span> sodium/<span style='color:#939598;'>emtricitabine 200mg</span>/<span style='color:#939598;'>tenofovir alafenamide 25mg</span> fumarate can be takenat least 2 hr before or 6 hr after taking a medication containing magnesium.</div>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+        <mj-section border="5px solid transparent" css-class="section_reusable_texts" padding-bottom="10px" padding-left="0px" padding-right="0px" padding-top="10px">
+          <mj-column width="100%">
+            <mj-text approved="true" claimSymbol="" claimText="Bictegravir, 200 mg of emtricitabine and tenofovir alafenamide" el_data_type="Match Text" el_id="6e36b56e-4ecb-4d55-bce6-67efaf0aec1d" elementName="RT-001130" font-size="13px" line-height="18px" moduleFootnotes="[]" moduleGlossary="[]" moduleName="CM-001555" moduleReferences="[]" mustUse="true" padding-bottom="10px" padding-left="25px" padding-right="25px" padding-top="10px" referenceVal="" symbol="">
+              <div><span style='color:#CF0A2C;'>Biktarvy®</span>, 200 mg of <span style='color:#939598;'>emtricitabine 200mg</span> and <span style='color:#939598;'>tenofovir alafenamide 25mg</span></div>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+        <mj-section border="5px solid transparent" css-class="section_combined_image_content" padding-bottom="10px" padding-left="0px" padding-right="0px" padding-top="10px">
+          <mj-column width="50%">
+            <mj-image approved="true" css-class="approved-image" el_data_type="Image" el_id="26c08723-dc8d-4246-b310-43d3eebaaf1d" el_type="Component" elementName="COMP-1552" fluid-on-mobile="true" moduleName="CM-001555" mustUse="true" src="https://d1t0wo1ho6nrgc.cloudfront.net/components/20045a0a-cc14-4533-99d0-a6d132d674ed/26c08723-dc8d-4246-b310-43d3eebaaf1d/23216_1_0.png"></mj-image>
+          </mj-column>
+          <mj-column width="50%">
+            <mj-text approved="true" claimSymbol="" claimText="BIKTARVY is a complete, 1-pill, once-a-day prescription medicine used to treat HIV-1 in adults" el_data_type="Match Text" elementName="RT-001128" font-size="13px" line-height="18px" moduleFootnotes="[]" moduleGlossary="[]" moduleName="CM-001555" moduleReferences="[]" padding-bottom="10px" padding-left="25px" padding-right="25px" padding-top="10px" referenceVal="" symbol="">
+              <div><span style='color:#CF0A2C;'>BIKTARVY®</span> is a complete, 1-pill, once-a-day prescription medicine used to treat HIV-1 in adults</div>
+            </mj-text>
+            <mj-text approved="true" claimSymbol="" claimText="Bictegravir, 200 mg of emtricitabine and tenofovir alafenamide" el_data_type="Match Text" elementName="RT-001130" font-size="13px" line-height="18px" moduleFootnotes="[]" moduleGlossary="[]" moduleName="CM-001555" moduleReferences="[]" padding-bottom="10px" padding-left="25px" padding-right="25px" padding-top="10px" referenceVal="" symbol="">
+              <div><span style='color:#CF0A2C;'>Biktarvy®</span>, <span style='color:#939598;'>bictegravir 50mg</span> of <span style='color:#939598;'>emtricitabine 200mg</span> and <span style='color:#939598;'>tenofovir alafenamide 25mg</span></div>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+    
+      <mj-section padding-bottom="5px" padding-left="0px" padding-right="0px" padding-top="5px" sectionName="Footnotes">
+        <mj-column width="100%">
+          <mj-text approved="true" approvedContentId="approved_ref" block_type="Footnotes" font-size="12px" line-height="17px" padding-bottom="5px" padding-left="25px" padding-right="25px" padding-top="5px">
+            <div><b>Footnotes: </b><sup>§</sup>A retrospective analysis evaluated treatment adherence and its effect on virologic outcomes in double-blind, placebo-controlled clinical studies in treatment-naïve (1489, 1490, 4458) or virologically suppressed (1844 and 4030) participants. Participants with ≥1 returned pill bottle and ≥1 on-treatment HIV-1 RNA measurement were included in the analysis. Adherence was measured by the number of pills taken divided by the number of pills prescribed. Assessment was limited to returned pill bottles.; <sup>#</sup>At Week 48 in pooled data from treatment-naïve participants: efficacy was <b style='color:#CF0A2C;'>91%</b> for <span style='color:#CF0A2C;'>Biktarvy®</span> (pooled [n=634]) vs <b style='color:#CF0A2C;'>93%</b> (ABC/3TC/DTG [n=315]) in Study 1489 (95% CI: -2.1 [-5.9 to 1.6]) and <b style='color:#CF0A2C;'>93%</b> (FTC/TAF + DTG [n=325]) in Study 1490 (95% CI: -1.9 [-5.6 to 1.8])=634]) vs <b style='color:#CF0A2C;'>93%</b> (ABC/3TC/DTG [n=315]).; <sup>€</sup>DTG + 2 NRTI regimens included: Study 1489, ABC/3TC/DTG (n=314) and Study 1490, DTG + FTC/TAF (n=323).; <sup>†</sup>Efficacy defined as HIV-1 RNA <50 copies/mL.; <sup>*</sup>At Week 48 in pooled data from treatment-naïve participants: efficacy was <b style='color:#CF0A2C;'>91%</b> for <span style='color:#CF0A2C;'>Biktarvy®</span> (pooled [n=634]) vs <b style='color:#CF0A2C;'>93%</b> (ABC/3TC/DTG [n=315]) in Study 1489 (95% CI: -2.1 [-5.9 to 1.6]) and <b style='color:#CF0A2C;'>93%</b> (FTC/TAF + DTG [n=325]) in Study 1490 (95% CI: -1.9 [-5.6 to 1.8]).</div>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-bottom="5px" padding-left="0px" padding-right="0px" padding-top="5px" sectionName="Glossary">
+        <mj-column width="100%">
+          <mj-text approved="true" approvedContentId="approved_ref" block_type="Glossary" font-size="12px" line-height="17px" padding-bottom="5px" padding-left="25px" padding-right="25px" padding-top="5px">
+            <div><b>Abbreviations: </b>P=E, passing=excluded; M=E, missing=excluded; I=E, included=excluded</div>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-bottom="5px" padding-left="0px" padding-right="0px" padding-top="5px" sectionName="References">
+        <mj-column width="100%">
+          <mj-text approved="true" approvedContentId="approved_ref" block_type="References" font-size="12px" line-height="17px" padding-bottom="5px" padding-left="25px" padding-right="25px" padding-top="5px">
+            <div><b>BIBLIOGRAFÍA:</b> 1. Veeva Test Document 2. test 3. Test citation for eda to module 4. DOF-test-test--1200 5. Phan-V-1995 6. gghhjkkk 7. Data on file. Gilead Sciences, Inc.</div>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
