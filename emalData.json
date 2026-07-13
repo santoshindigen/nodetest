@@ -1,0 +1,119 @@
+[
+  {
+    "asset_id": "69cce96162b02acf0ceba2ab",
+    "category": "Clinical Efficacy",
+    "claims": "BIKTARVY®: forgiveness* demonstrated in Phase 3 clinical trials†1\nBIKTARVY® maintained higher virologic suppression through 144 weeks in treatment-naïve participants with <85% adherence vs DTG + 2 NRTI regimens‡ (p=0.03)+1",
+    "components": [
+      {
+        "bbox": [
+          0.052963197231292725,
+          0.3500874638557434,
+          0.6517202854156494,
+          0.7541797757148743
+        ],
+        "component_index": 3,
+        "component_type": "figure",
+        "content": "BIKTARVY bictegravir 50mg/emtricitabine 200mg/ tenofovir alafenamide 25mg tablets Three inverted pyramid shapes are stacked on top of each other, with the largest red, the middle teal, and the smallest dark blue, forming a stylized upward-pointing arrow or growth symbol",
+        "id": "52b3322b-6dd7-42b1-af8a-4753a6b9e09e",
+        "image_url": "https://icb-asset-store-s3.s3.amazonaws.com/ncci-semanticmesh-elements/component_images/0d113eb0-10c9-4843-b482-7ceedde4438a_page_31_comp3.png?AWSAccessKeyId=AKIAW3MEFFJK4ERS4VEG&Signature=wWaULdyyM04IOaw1TjYAD50Rn%2F0%3D&Expires=1784553202",
+        "name": "BIKTARVY bictegravir 50mg/emtricitabine 200mg/ tenofovir alafenamide 25mg tablets Three inverted pyr",
+        "type": "Component"
+      },
+      {
+        "bbox": [
+          0.6434313654899597,
+          0.023506836965680122,
+          0.6881935000419617,
+          0.07846634089946747
+        ],
+        "component_index": 2,
+        "component_type": "logo",
+        "content": "Bar chart: Efficacy (HIV <50 copies/mL) of BIKTARVY® vs DTG + 2 NRTI regimens stratified by adherence level in a pooled, retrospective analysis of 1489 and 1490+ Y-axis: Participants (%) X-axis: Adherence category and treatment regimen Data Series: BIKTARVY® (n=623) - Red bars - High (adherence ≥95%, n=436): 99% - Intermediate (adherence ≥85-<95%, n=149): 99% - Low (adherence <85%, n=38): 97% DTG + 2 NRTIs‡ (n=637) - Dark gray bars (Week 144) - High (adherence ≥95%, n=436): 98% - Intermediate (adherence ≥85-<95%, n=149): 96% - Low (adherence <85%, n=38): 82% P-values: - Between BIKTARVY® High and Intermediate adherence: p=0.45 - Between BIKTARVY® Intermediate and Low adherence: p=0.50 - Between DTG + 2 NRTIs High and Intermediate adherence: p<0.0001 - Between DTG + 2 NRTIs Intermediate and Low adherence: p=0.005",
+        "id": "25c5ce19-9191-469d-8adf-22d2ebbf0b4e",
+        "image_url": "https://icb-asset-store-s3.s3.amazonaws.com/ncci-semanticmesh-elements/component_images/85a36fb9-4938-401b-b18c-91ee0d26fbd2_page_31_comp2.png?AWSAccessKeyId=AKIAW3MEFFJK4ERS4VEG&Signature=V6nUcIVX2zn98cu7nq1W0PjQbYE%3D&Expires=1784553202",
+        "name": "Bar chart: Efficacy (HIV <50 copies/mL) of BIKTARVY® vs DTG + 2 NRTI regimens stratified by adherenc",
+        "type": "Component"
+      }
+    ],
+    "content": "BIKTARVY® shows superior virologic suppression in treatment-naïve patients with low adherence over 144 weeks.",
+    "footnotes": [
+      {
+        "content": "Forgiveness is defined as the ability of a given regimen to achieve and maintain virological suppression despite imperfect adherence.",
+        "id": "2ea574b9-5471-4fdd-ab0f-bf41fa2a131f",
+        "source": "SupportingClaim",
+        "source_id": "3cd727ee-2335-4850-ae78-85d3743aeb79",
+        "type": "Footnote"
+      },
+      {
+        "content": "‡ DTG + 2 NRTI regimens included: Study 1489, ABC/3TC/DTG (n=314) and Study 1490, DTG + FTC/TAF (n=323).",
+        "id": "f8f3f824-7628-4ec8-8ae8-473805726380",
+        "source": "SupportingClaim",
+        "source_id": "3cd727ee-2335-4850-ae78-85d3743aeb79",
+        "type": "Footnote"
+      },
+      {
+        "content": "† A retrospective analysis evaluated treatment adherence and its effect on virologic outcomes in double-blind, placebo-controlled clinical studies in treatment-naïve (1489, 1490, 4458) or virologically suppressed (1844 and 4030) participants.¹ Participants with ≥1 returned pill bottle and ≥1 on-treatment HIV-1 RNA measurement were included in the analysis.¹ Adherence was measured by the number of pills taken divided by the number of pills prescribed. Assessment was limited to returned pill bottles.¹",
+        "id": "4d43e396-5514-4b13-b643-37f1fb3315eb",
+        "source": "SupportingClaim",
+        "source_id": "3cd727ee-2335-4850-ae78-85d3743aeb79",
+        "type": "Footnote"
+      }
+    ],
+    "glossaries": [],
+    "glossary": "3TC, lamivudine | ABC, abacavir | DTG, dolutegravir | NRTI, nucleoside reverse transcriptase inhibitor\nBIC, bictegravir | FTC, emtricitabine | TAF, tenofovir alafenamide fumarate",
+    "id": "summary:066400580ba30f5951c192fbb7b552a585b08174",
+    "key_claims": [
+      {
+        "content": "BIKTARVY®: forgiveness* demonstrated in Phase 3 clinical trials†1",
+        "id": "9492fa2a-73a3-42b4-8b4f-12eff16e1c77",
+        "name": "BIKTARVY®: forgiveness* demonstrated in Phase 3 clinical trials†1",
+        "type": "KeyClaim"
+      }
+    ],
+    "page_number": 31,
+    "reference": "1. Andreatta K, et al. Infectious Diseases (ID) Week 2023; 11-15 October; Boston, MA.\n1. Andreatta K, et al. Infectious Diseases (ID) Week 2023; 11-15 October; Boston, MA. | 2. BIKTARVY® (BIC/FTC/TAF) Summary of Product Characteristics.",
+    "references": [
+      {
+        "content": "1. Andreatta K, et al. Infectious Diseases (ID) Week 2023; 11-15 October; Boston, MA.",
+        "id": "201e0200-953e-40ef-8819-1fb82b51f871",
+        "source": "SupportingClaim",
+        "source_id": "3cd727ee-2335-4850-ae78-85d3743aeb79",
+        "type": "Reference"
+      },
+      {
+        "content": "1. Andreatta K, et al. Infectious Diseases (ID) Week 2023; 11-15 October; Boston, MA.",
+        "id": "201e0200-953e-40ef-8819-1fb82b51f871",
+        "source": "ReusableText",
+        "source_id": "57ea3590-85f5-4993-b794-c6acaa80b364",
+        "type": "Reference"
+      }
+    ],
+    "reusable_text": "O treatment-emergent resistance with BIKTARVY® (n=1306) Across double-blind, placebo-controlled clinical studies in treatment-naïve (1489, 1490, 4458) or virologically suppressed (1844 and 4030) participants†‡§1\nBIKTARVY® is one tablet to be taken once daily.¹²",
+    "reusable_texts": [
+      {
+        "content": "Efficacy (HIV <50 copies/mL) of BIKTARVY® vs DTG + 2 NRTI regimens stratified by adherence level in a pooled, retrospective analysis of 1489 and 1490",
+        "id": "57ea3590-85f5-4993-b794-c6acaa80b364",
+        "name": "Efficacy (HIV <50 copies/mL) of BIKTARVY",
+        "type": "ReusableText"
+      }
+    ],
+    "similarity": 0.6922185820082433,
+    "supporting_claims": [
+      {
+        "content": "O treatment-emergent resistance with BIKTARVY® (n=1306) Across double-blind, placebo-controlled clinical studies in treatment-naïve (1489, 1490, 4458) or virologically suppressed (1844 and 4030) participants†‡§1",
+        "id": "3cd727ee-2335-4850-ae78-85d3743aeb79",
+        "key_claim_id": "9492fa2a-73a3-42b4-8b4f-12eff16e1c77",
+        "name": "O treatment-emergent resistance with BIKTARVY® (n=1306) Across double-blind, placebo-controlled clin",
+        "type": "SupportingClaim"
+      },
+      {
+        "content": "BIKTARVY® maintained higher virologic suppression through 144 weeks in treatment-naïve participants with <85% adherence vs DTG + 2 NRTI regimens‡ (p=0.03)+1",
+        "id": "978a1d6c-9b3e-46c3-a600-1b14ecf8d7ab",
+        "key_claim_id": "9492fa2a-73a3-42b4-8b4f-12eff16e1c77",
+        "name": "BIKTARVY® maintained higher virologic suppression through 144 weeks in treatment-naïve participants ",
+        "type": "SupportingClaim"
+      }
+    ],
+    "type": "Summary"
+  }
+]
