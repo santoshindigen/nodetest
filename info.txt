@@ -1,0 +1,83 @@
+Free text should only use information present in the approved email content and available references. It should not infer, hallucinate, or introduce unsupported information.
+
+Strong Context Alignment with Email Content (Top Priority)
+
+The free text output is frequently not aligned with the actual email message
+
+Example issues highlighted: Email topic does not match free text content (completely different themes)
+
+Required improvement:
+
+Ensure free text reflects the subject, intent, and core message of the email 
+
+ 
+
+Improve Context Understanding & Relevance
+
+System currently misses key themes or focuses on irrelevant aspects
+
+Business expectation: 
+
+Better understanding of primary vs secondary content
+
+Avoid drifting into unrelated medical/technical info 
+
+ 
+
+Avoid Brand Name Usage (e.g., Biktarvy)
+
+Business explicitly requested:Do NOT include brand names in free text
+
+Especially when: No citation exists
+
+It reduces reusability
+
+Example issue:
+
+Brand name used incorrectly in generated text 
+
+ 
+
+Consistency with Email Body & Other Sections
+
+Free text should: Align with subject line, preheader, and body
+
+Issue identified:
+
+Product names missing or inconsistent across sections
+
+Required:
+
+Cross-section consistency in generated content 
+
+ 
+
+Better Audience Adaptation
+
+Current gap - Weak differentiation across:
+
+HCPs
+
+Patients
+
+Payors
+
+Required improvement:
+
+Tailor tone and messaging based on audience persona 
+
+ 
+
+Reduce Generic / Repetitive Content
+
+Feedback: Outputs sometimes feel generic or repetitive
+
+Expectation: More unique, meaningful, and specific phrasing 
+
+ 
+
+Correct Tone Handling (Especially Sensitive Topics)
+
+Issue: Tone not always appropriate for Emotional / sensitive medical topics
+
+Improvement: Ensure context-aware tone adaptation 
