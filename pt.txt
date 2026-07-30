@@ -1,0 +1,16 @@
+Prompt 1: Create a (VAE)/SFMC email in English for Healthcare Professionals (HCPs) in the global market. Focus on the efficacy of Biktarvy in maintaining viral suppression in treatment-naïve adults across diverse populations.
+The objective is to communicate Biktarvy’s applicability in diverse patient populations for maintaining viral suppression in treatment-naïve adults. The tone should be scientific, clinical, and concise for HCP communication.
+ 
+Prompt 2: Create a (VAE)/SFMC email in English for Healthcare Professionals (HCPs) in the global market. The email should focus on the efficacy of Biktarvy in maintaining sustained viral suppression, including comparisons with other treatment regimens where supported by evidence.
+The objective is to highlight Biktarvy’s applicability in maintaining sustained viral suppression. The tone should be scientific, clinical, and concise, suitable for HCP communication.
+ 
+Prompt 3: Create a (VAE)/SFMC email in English for Healthcare Professionals (HCPs) in the global market. Focus on the low potential for drug–drug interactions (DDIs) between Biktarvy and commonly used recreational drugs.
+The objective is to highlight Biktarvy’s favorable DDI profile in people with HIV on ART. The tone should be scientific, clinical, and concise for HCP communication.
+ 
+ 
+Create a VAE/SFMC email in English for HCPs in the Global market, focused on Efficacy & Comparative Effectiveness with Biktarvy. The objective is to summarize how Biktarvy’s virologic outcomes compare with commonly used regimens.
+ The tone should be scientific and clinical.
+
+
+Create a VAE/SFMC email in English for HCPs in the Global market, focused on Efficacy & Durability with Biktarvy. The objective is to convey Biktarvy’s consistent performance across multiple treatment timepoints in treatment‑naïve
+ adults. The tone should be scientific and clinical.
